@@ -1,0 +1,760 @@
+"date","time","year","month","day","season","time_of_day","lat","lon","swell","beaufort","id","home_screen","effort","group","species","age","count","behaviour","distance_band","shag_plumage","note","species_nice_name"
+2025-07-25,16H 37M 31S,2025,7,25,"winter","afternoon",-46.60594562,168.3624357,"0-0.5","1",1,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,16H 41M 13S,2025,7,25,"winter","afternoon",-46.6286058,168.3490806,"0-0.5","1",1,"seabirds",NA,"gull","black-backed_gull","adult",1,"flying",NA,NA,NA,"Black-backed gull"
+2025-07-25,16H 42M 2S,2025,7,25,"winter","afternoon",-46.63328973,168.344777,"0-0.5","1",1,"seabirds",NA,"tern","tern_sp",NA,1,NA,NA,NA,NA,"Unknown tern"
+2025-07-25,16H 45M 45S,2025,7,25,"winter","afternoon",-46.65432542,168.3263086,"0-0.5","1",1,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying",NA,NA,NA,"Buller's mollymawk"
+2025-07-25,17H 0M 6S,2025,7,25,"winter","afternoon",-46.73473289,168.2606534,"0-0.5","1",1,"seabirds",NA,"shag","black_shag","dont_know",2,"flying_E",NA,NA,"Black shag; E","Black shag"
+2025-07-25,17H 0M 40S,2025,7,25,"winter","afternoon",-46.73792539,168.2581124,"0-0.5","1",1,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_E",NA,NA,"E","Unknown (Thalassarche) mollymawk"
+2025-07-25,17H 15M 38S,2025,7,25,"winter","afternoon",-46.82407295,168.200645,"0-0.5","1",1,"seabirds",NA,"shag","black_shag","dont_know",1,"flying_W",NA,NA,"Black; W","Black shag"
+2025-07-25,17H 20M 17S,2025,7,25,"winter","afternoon",-46.84926862,168.1815105,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,17H 21M 40S,2025,7,25,"winter","afternoon",-46.85696354,168.1760023,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,17H 24M 58S,2025,7,25,"winter","afternoon",-46.8745098,168.1613317,"0-0.5","2",1,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","dont_know",1,"flying_N",NA,NA,"N","Buller's mollymawk"
+2025-07-25,17H 27M 1S,2025,7,25,"winter","afternoon",-46.885669,168.1512309,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,17H 28M 37S,2025,7,25,"winter","afternoon",-46.89243743,168.1399171,"0-0.5","2",NA,"seabirds",NA,"gull","red-billed_gull","adult",1,"sitting_on_water",NA,NA,NA,"Red-billed gull"
+2025-07-25,17H 28M 59S,2025,7,25,"winter","afternoon",-46.89404156,168.1372749,"0-0.5","2",NA,"seabirds",NA,"gull","red-billed_gull","adult",1,"sitting_on_water",NA,NA,NA,"Red-billed gull"
+2025-07-26,8H 5M 42S,2025,7,26,"winter","morning",-46.88703911,168.1498593,"0-0.5","2",2,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 6M 6S,2025,7,26,"winter","morning",-46.88532224,168.1517444,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 7M 9S,2025,7,26,"winter","morning",-46.88013209,168.1567343,"0-0.5","5",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 8M 55S,2025,7,26,"winter","morning",-46.8705242,168.1647761,"0-0.5","5",2,"seabirds",NA,"shag","other","dont_know",1,"flying_W",NA,NA,NA,"Unknown shag"
+2025-07-26,8H 12M 0S,2025,7,26,"winter","morning",-46.8534335,168.1798494,"0-0.5","5",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 20M 18S,2025,7,26,"winter","morning",-46.80698825,168.2167895,"0-0.5","4",2,"seabirds",NA,"shag","pied_shag","dont_know",1,"flying_E",NA,NA,NA,"Pied shag"
+2025-07-26,8H 22M 38S,2025,7,26,"winter","morning",-46.79387421,168.2264886,"0-0.5","4",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 30M 0S,2025,7,26,"winter","morning",-46.75220559,168.2575819,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 48M 32S,2025,7,26,"winter","morning",-46.6486481,168.336559,"0-0.5","3",2,"seabirds",NA,"mollymawk_sooty","black-browed_mollymawk","dont_know",1,"flying_W",NA,NA,NA,"Black-browed mollymawk"
+2025-07-26,8H 52M 0S,2025,7,26,"winter","morning",-46.62976732,168.3521101,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 53M 42S,2025,7,26,"winter","morning",-46.6203728,168.3588643,"0-0.5","2",2,"seabirds",NA,"tern","tern_sp","dont_know",1,"flying_W",NA,NA,NA,"Unknown tern"
+2025-07-26,8H 55M 56S,2025,7,26,"winter","morning",-46.6076246,168.3623456,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,8H 56M 40S,2025,7,26,"winter","morning",-46.60341369,168.3605999,"0-0.5","2",NA,"seabirds",NA,"shag","spotted_shag","adult",2,"flying",NA,NA,NA,"Spotted shag"
+2025-07-26,8H 57M 19S,2025,7,26,"winter","morning",-46.60048942,168.3563485,"0-0.5","2",NA,"seabirds",NA,"gull","red-billed_gull","adult",1,"flying",NA,NA,NA,"Red-billed gull"
+2025-07-26,9H 48M 44S,2025,7,26,"winter","morning",-46.60643265,168.3617751,"0-0.5","2",3,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,9H 51M 25S,2025,7,26,"winter","morning",-46.62277241,168.3559413,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,9H 54M 35S,2025,7,26,"winter","morning",-46.64100875,168.341474,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,9H 58M 31S,2025,7,26,"winter","morning",-46.66369915,168.323016,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,9H 59M 54S,2025,7,26,"winter","morning",-46.67144524,168.316275,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-07-26,10H 0M 31S,2025,7,26,"winter","morning",-46.67499347,168.3132329,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",NA,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-26,10H 9M 40S,2025,7,26,"winter","morning",-46.7263918,168.2695836,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","dont_know",1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-07-26,10H 13M 53S,2025,7,26,"winter","morning",-46.75110974,168.2522085,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","black-browed_mollymawk","dont_know",1,"flying_E",NA,NA,NA,"Black-browed mollymawk"
+2025-07-26,10H 30M 22S,2025,7,26,"winter","morning",-46.84900132,168.187332,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","dont_know",1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-07-26,10H 35M 17S,2025,7,26,"winter","morning",-46.87662296,168.1639644,"0-0.5","2",3,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","dont_know",1,"flying",NA,NA,NA,"Buller's mollymawk"
+2025-07-26,10H 35M 45S,2025,7,26,"winter","morning",-46.87924038,168.1618153,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,14H 59M 22S,2025,7,26,"winter","afternoon",-46.88899762,168.1474619,"0-0.5","2",4,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,15H 0M 46S,2025,7,26,"winter","afternoon",-46.88137474,168.1556077,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,15H 0M 54S,2025,7,26,"winter","afternoon",-46.88069128,168.1561783,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,15H 10M 57S,2025,7,26,"winter","afternoon",-46.82450579,168.2051115,"0-0.5","1",4,"seabirds",NA,"shag","spotted_shag","adult",1,"sitting_on_water","50-100m",NA,NA,"Spotted shag"
+2025-07-26,15H 11M 27S,2025,7,26,"winter","afternoon",-46.82157385,168.2073968,"0-0.5","1",4,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-07-26,15H 17M 31S,2025,7,26,"winter","afternoon",-46.7867809,168.2366208,"0-0.5","1",4,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_N",NA,NA,"N","Common diving petrel"
+2025-07-26,15H 23M 45S,2025,7,26,"winter","afternoon",-46.75097739,168.266224,"0-0.5","1",4,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"sitting_on_water","0-50m",NA,NA,"Buller's mollymawk"
+2025-07-26,15H 26M 26S,2025,7,26,"winter","afternoon",-46.7356875,168.2797585,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Light rain",NA
+2025-07-26,15H 29M 16S,2025,7,26,"winter","afternoon",-46.71970225,168.2937494,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain stop",NA
+2025-07-26,15H 31M 57S,2025,7,26,"winter","afternoon",-46.70430214,168.307166,"0-0.5","1",4,"seabirds",NA,"shag","other",NA,1,"sitting_on_water","100-200m",NA,NA,"Unknown shag"
+2025-07-26,15H 32M 15S,2025,7,26,"winter","afternoon",-46.70258808,168.3086555,"0-0.5","1",4,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-07-26,15H 39M 24S,2025,7,26,"winter","afternoon",-46.66019015,168.338896,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,15H 40M 6S,2025,7,26,"winter","afternoon",-46.65563132,168.3411836,"0-0.5","2",4,"seabirds",NA,"mollymawk_sooty","black-browed_mollymawk","dont_know",1,"flying_N",NA,NA,NA,"Black-browed mollymawk"
+2025-07-26,15H 45M 11S,2025,7,26,"winter","afternoon",-46.62422349,168.3573619,"0-0.5","2",4,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","dont_know",20,"flying_N",NA,NA,"Following boat","Buller's mollymawk"
+2025-07-26,15H 47M 10S,2025,7,26,"winter","afternoon",-46.61213796,168.3636175,"0-0.5","2",4,"seabirds",NA,"shag","stewart_island_shag","adult",1,"flying_N",NA,"pied","Pied phase","Stewart Island shag"
+2025-07-26,15H 48M 47S,2025,7,26,"winter","afternoon",-46.60258569,168.3573037,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,16H 25M 5S,2025,7,26,"winter","afternoon",-46.60646802,168.3597237,"0-0.5","2",5,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,16H 25M 48S,2025,7,26,"winter","afternoon",-46.61112106,168.362078,"0-0.5","2",5,"seabirds",NA,"shag","spotted_shag","dont_know",1,"flying_N",NA,NA,NA,"Spotted shag"
+2025-07-26,16H 26M 12S,2025,7,26,"winter","afternoon",-46.61389937,168.3620647,"0-0.5","2",5,"seabirds",NA,"gull","red-billed_gull","adult",2,"flying_N",NA,NA,NA,"Red-billed gull"
+2025-07-26,16H 26M 29S,2025,7,26,"winter","afternoon",-46.61583739,168.3607709,"0-0.5","2",5,"seabirds",NA,"shag","stewart_island_shag","immature",1,"flying_N",NA,NA,NA,"Stewart Island shag"
+2025-07-26,16H 27M 41S,2025,7,26,"winter","afternoon",-46.62307265,168.3544123,"0-0.5","2",5,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-26,16H 28M 6S,2025,7,26,"winter","afternoon",-46.62548702,168.3522175,"0-0.5","2",5,"seabirds",NA,"petrel","Cape_pigeon","adult",1,"flying_N",NA,NA,"N","Cape petrel"
+2025-07-26,16H 28M 47S,2025,7,26,"winter","afternoon",-46.62960228,168.3485415,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,16H 28M 51S,2025,7,26,"winter","afternoon",-46.63008709,168.3480817,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,16H 30M 17S,2025,7,26,"winter","afternoon",-46.63858613,168.3406316,"0-0.5","1",5,"seabirds",NA,"shag","pied_shag","dont_know",1,"flying_N",NA,NA,NA,"Pied shag"
+2025-07-26,16H 31M 23S,2025,7,26,"winter","afternoon",-46.64243946,168.3360862,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"2 humpback whales; swimming E to W",NA
+2025-07-26,16H 32M 3S,2025,7,26,"winter","afternoon",-46.64470261,168.3334938,"0-0.5","1",5,"seabirds",NA,"gull","red-billed_gull","dont_know",2,"flying_N",NA,NA,NA,"Red-billed gull"
+2025-07-26,16H 34M 20S,2025,7,26,"winter","afternoon",-46.65776015,168.3223784,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"sitting_on_water","100-200m",NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-26,16H 36M 13S,2025,7,26,"winter","afternoon",-46.66856208,168.3130749,"0-0.5","1",5,"seabirds",NA,"gull","black-billed_gull","adult",8,"flying_N",NA,NA,"N","Black-billed gull"
+2025-07-26,16H 41M 37S,2025,7,26,"winter","afternoon",-46.69969875,168.2865981,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","white-capped_mollymawk","adult",1,"sitting_on_water","100-200m",NA,NA,"White-capped mollymawk"
+2025-07-26,16H 43M 28S,2025,7,26,"winter","afternoon",-46.71039989,168.2778875,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","white-capped_mollymawk","adult",1,"flying_N",NA,NA,"N","White-capped mollymawk"
+2025-07-26,16H 47M 6S,2025,7,26,"winter","afternoon",-46.73169189,168.2616426,"0-0.5","1",5,"seabirds",NA,"shag","stewart_island_shag","dont_know",1,"sitting_on_water","50-100m","bronze","Bronze","Stewart Island shag"
+2025-07-26,16H 47M 37S,2025,7,26,"winter","afternoon",-46.73477186,168.259451,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-26,16H 48M 17S,2025,7,26,"winter","afternoon",-46.73870507,168.2566226,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"sitting_on_water","100-200m",NA,NA,"Buller's mollymawk"
+2025-07-26,16H 49M 55S,2025,7,26,"winter","afternoon",-46.74854761,168.2495826,"0-0.5","1",5,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",2,"flying_W",NA,NA,"W","Common diving petrel"
+2025-07-26,16H 51M 4S,2025,7,26,"winter","afternoon",-46.75547324,168.2448423,"0-0.5","1",5,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_S",NA,NA,"S","Common diving petrel"
+2025-07-26,16H 51M 59S,2025,7,26,"winter","afternoon",-46.76105127,168.2412628,"0-0.5","1",5,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_E",NA,NA,"E","Common diving petrel"
+2025-07-26,16H 54M 39S,2025,7,26,"winter","afternoon",-46.77715894,168.2311452,"0-0.5","1",5,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_W",NA,NA,"W","Common diving petrel"
+2025-07-26,17H 0M 27S,2025,7,26,"winter","afternoon",-46.81193696,168.2078119,"0-0.5","1",5,"seabirds",NA,"shag","stewart_island_shag","dont_know",1,"sitting_on_water","0-50m",NA,NA,"Stewart Island shag"
+2025-07-26,17H 8M 48S,2025,7,26,"winter","afternoon",-46.86115374,168.173616,"0-0.5","1",5,"seabirds",NA,"skua","southern_skua","dont_know",1,"flying_E",NA,NA,"E southern","southern_skua"
+2025-07-26,17H 9M 25S,2025,7,26,"winter","afternoon",-46.8646303,168.1705583,"0-0.5","1",5,"seabirds",NA,"shag","spotted_shag","adult",1,"flying_N",NA,NA,"N","Spotted shag"
+2025-07-26,17H 10M 36S,2025,7,26,"winter","afternoon",-46.87123981,168.1645246,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_N",NA,NA,"W","Unknown (Thalassarche) mollymawk"
+2025-07-26,17H 12M 19S,2025,7,26,"winter","afternoon",-46.88064166,168.1558532,"0-0.5","1",5,"seabirds",NA,"shag","stewart_island_shag","adult",1,"flying_N",NA,"pied","Pied phase","Stewart Island shag"
+2025-07-26,17H 13M 7S,2025,7,26,"winter","afternoon",-46.88500449,168.1517583,"0-0.5","1",5,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",2,"flying_N",NA,NA,"N","Buller's mollymawk"
+2025-07-26,17H 13M 50S,2025,7,26,"winter","afternoon",-46.88873242,168.14739,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,7H 59M 30S,2025,7,27,"winter","morning",-46.88623587,168.1512874,"0-0.5","1",6,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,8H 8M 17S,2025,7,27,"winter","morning",-46.84085,168.18843,"0-0.5","1",6,"seabirds",NA,"shag","black_shag",NA,1,"flying_E",NA,NA,NA,"Black shag"
+2025-07-27,8H 8M 31S,2025,7,27,"winter","morning",-46.83822,168.19041,"0-0.5","1",6,"seabirds",NA,"shag","stewart_island_shag",NA,8,"flying_E",NA,"bronze",NA,"Stewart Island shag"
+2025-07-27,8H 28M 57S,2025,7,27,"winter","morning",-46.71638,168.28183,"0-0.5","1",6,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-07-27,8H 31M 20S,2025,7,27,"winter","morning",-46.70195,168.29214,"0-0.5","1",6,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-07-27,8H 31M 32S,2025,7,27,"winter","morning",-46.70076,168.29303,"0-0.5","1",6,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-07-27,8H 37M 8S,2025,7,27,"winter","morning",-46.66797,168.3184,"0-0.5","1",6,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_W",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,8H 44M 20S,2025,7,27,"winter","morning",-46.6279,168.35256,"0-0.5","1",6,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,8H 45M 39S,2025,7,27,"winter","morning",-46.62148,168.35765,"0-0.5","1",6,"seabirds",NA,"tern","white_fronted_tern",NA,1,"flying_W",NA,NA,NA,"white_fronted_tern"
+2025-07-27,8H 47M 37S,2025,7,27,"winter","morning",-46.60488975,168.3588072,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,8H 48M 39S,2025,7,27,"winter","morning",-46.60509,168.35809,"0-0.5","1",NA,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,8H 50M 53S,2025,7,27,"winter","morning",-46.60509,168.35809,"0-0.5","1",NA,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,9H 50M 19S,2025,7,27,"winter","morning",-46.60767505,168.3640641,"0-0.5","1",7,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,9H 56M 7S,2025,7,27,"winter","morning",-46.63639,168.34385,"0-0.5","1",7,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,9H 57M 17S,2025,7,27,"winter","morning",-46.64294,168.33798,"0-0.5","1",7,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,9H 59M 59S,2025,7,27,"winter","morning",-46.65897,168.32336,"0-0.5","1",7,"seabirds",NA,"gull","gull_sp",NA,1,"flying_E",NA,NA,NA,"Unknown gull"
+2025-07-27,10H 3M 49S,2025,7,27,"winter","morning",-46.68122,168.3032,"0-0.5","1",7,"seabirds",NA,"tern","white-fronted_tern",NA,1,"flying_N",NA,NA,NA,"White-fronted tern"
+2025-07-27,10H 4M 33S,2025,7,27,"winter","morning",-46.68093,168.29982,"0-0.5","1",7,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_E",NA,"bronze",NA,"Stewart Island shag"
+2025-07-27,10H 5M 11S,2025,7,27,"winter","morning",-46.68878,168.29662,"0-0.5","1",7,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,10H 33M 3S,2025,7,27,"winter","morning",-46.85409,168.17905,"0-0.5","1",7,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,10H 34M 55S,2025,7,27,"winter","morning",-46.86495,168.16906,"0-0.5","1",7,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,10H 36M 12S,2025,7,27,"winter","morning",-46.87198,168.16253,"0-0.5","1",7,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_E",NA,NA,NA,"Red-billed gull"
+2025-07-27,10H 37M 6S,2025,7,27,"winter","morning",-46.87722,168.15792,"0-0.5","1",7,"seabirds",NA,"shag","shag_sp",NA,1,"flying_E",NA,NA,NA,"Unknown shag"
+2025-07-27,10H 38M 36S,2025,7,27,"winter","morning",-46.88618,168.15056,"0-0.5","1",7,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_W",NA,NA,NA,"Red-billed gull"
+2025-07-27,10H 38M 49S,2025,7,27,"winter","morning",-46.88899389,168.1472248,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 0M 19S,2025,7,27,"winter","afternoon",-46.88850665,168.1479843,"0-0.5","1",8,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 2M 11S,2025,7,27,"winter","afternoon",-46.87856031,168.1585571,"0-0.5","1",8,"seabirds",NA,"gull","red-billed_gull",NA,2,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-07-27,15H 2M 44S,2025,7,27,"winter","afternoon",-46.87564144,168.1612888,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 2M 51S,2025,7,27,"winter","afternoon",-46.87500592,168.1618904,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 10M 18S,2025,7,27,"winter","afternoon",-46.83372803,168.19634,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 10M 58S,2025,7,27,"winter","afternoon",-46.82995135,168.1993297,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,15H 13M 30S,2025,7,27,"winter","afternoon",-46.815229,168.2106909,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"sitting_on_water","50-100m",NA,NA,"Buller's mollymawk"
+2025-07-27,15H 15M 13S,2025,7,27,"winter","afternoon",-46.80544028,168.2184217,"0-0.5","3",8,"seabirds",NA,"shag","other","dont_know",1,"sitting_on_water","100-200m",NA,NA,"Unknown shag"
+2025-07-27,15H 22M 0S,2025,7,27,"winter","afternoon",-46.7665586,168.2495469,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,15H 26M 20S,2025,7,27,"winter","afternoon",-46.74192607,168.2688317,"0-0.5","3",8,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-07-27,15H 29M 11S,2025,7,27,"winter","afternoon",-46.72559762,168.2815671,"0-0.5","3",8,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-07-27,15H 30M 42S,2025,7,27,"winter","afternoon",-46.71684473,168.2884403,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,15H 31M 8S,2025,7,27,"winter","afternoon",-46.71447785,168.2902722,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_W",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,15H 37M 10S,2025,7,27,"winter","afternoon",-46.67964308,168.3167526,"0-0.5","3",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain avg",NA
+2025-07-27,15H 37M 51S,2025,7,27,"winter","afternoon",-46.67567664,168.3196851,"0-0.5","3",8,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,15H 38M 41S,2025,7,27,"winter","afternoon",-46.67103935,168.323318,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,15H 39M 33S,2025,7,27,"winter","afternoon",-46.66597417,168.3268053,"0-0.5","1",8,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,15H 42M 48S,2025,7,27,"winter","afternoon",-46.64705206,168.3408361,"0-0.5","1",8,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,15H 42M 55S,2025,7,27,"winter","afternoon",-46.64627778,168.3414319,"0-0.5","1",8,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,15H 49M 44S,2025,7,27,"winter","afternoon",-46.60500035,168.3582838,"0-0.5","1",8,"seabirds",NA,"gull","black-billed_gull","adult",1,"flying_E",NA,NA,NA,"Black-billed gull"
+2025-07-27,15H 49M 56S,2025,7,27,"winter","afternoon",-46.60378631,168.3574098,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,16H 37M 27S,2025,7,27,"winter","afternoon",-46.60595727,168.3609126,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain",NA
+2025-07-27,16H 37M 32S,2025,7,27,"winter","afternoon",-46.60646999,168.3610957,"0-0.5","1",9,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,16H 38M 51S,2025,7,27,"winter","afternoon",-46.6149508,168.3620867,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,16H 41M 54S,2025,7,27,"winter","afternoon",-46.63285442,168.3464521,"0-0.5","2",9,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,16H 42M 51S,2025,7,27,"winter","afternoon",-46.63810249,168.3415019,"0-0.5","2",9,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,16H 51M 15S,2025,7,27,"winter","afternoon",-46.68463015,168.2992094,"0-0.5","2",9,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-07-27,16H 55M 53S,2025,7,27,"winter","afternoon",-46.71050554,168.2768683,"0-0.5","2",9,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"sitting_on_water","50-100m",NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-07-27,16H 56M 3S,2025,7,27,"winter","afternoon",-46.71138443,168.2762151,"0-0.5","2",9,"seabirds",NA,"shag","stewart_island_shag","dont_know",1,"sitting_on_water","0-50m","bronze","Likely bronze si shag","Stewart Island shag"
+2025-07-27,16H 59M 32S,2025,7,27,"winter","afternoon",-46.73178443,168.2618956,"0-0.5","2",9,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_E",NA,"pied",NA,"Stewart Island shag"
+2025-07-27,17H 1M 52S,2025,7,27,"winter","afternoon",-46.74531018,168.2522698,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,17H 10M 10S,2025,7,27,"winter","afternoon",-46.79433371,168.2211188,"0-0.5","2",9,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-07-27,17H 26M 8S,2025,7,27,"winter","afternoon",-46.88485009,168.1520059,"0-0.5","2",9,"seabirds",NA,"shag","little_shag","dont_know",1,"sitting_on_water","0-50m",NA,"Little?","Little shag"
+2025-07-27,17H 27M 37S,2025,7,27,"winter","afternoon",-46.89153701,168.1419765,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-28,8H 3M 0S,2025,7,28,"winter","morning",-46.8892390653491,168.146742274985,"0-0.5","2",10,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-28,8H 3M 15S,2025,7,28,"winter","morning",-46.8883112305775,168.148292507976,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Still dark but well start anyways",NA
+2025-07-28,8H 6M 13S,2025,7,28,"winter","morning",-46.871858141385,168.163894833997,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-28,8H 6M 22S,2025,7,28,"winter","morning",-46.8709787121043,168.164621880278,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-28,8H 8M 27S,2025,7,28,"winter","morning",-46.8585721123964,168.174922065809,"1-1.5","2",10,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water","50-100m","bronze",NA,"Stewart Island shag"
+2025-07-28,8H 28M 43S,2025,7,28,"winter","morning",-46.737373941578,168.265630183741,"1-1.5","2",10,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-07-28,8H 29M 4S,2025,7,28,"winter","morning",-46.7354127019644,168.267099447548,"1-1.5","2",10,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-07-28,8H 30M 12S,2025,7,28,"winter","morning",-46.7286363523454,168.272242750973,"1-1.5","2",10,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-07-28,8H 31M 25S,2025,7,28,"winter","morning",-46.721621202305,168.27788268216,"1-1.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Light is now okay",NA
+2025-07-28,8H 44M 25S,2025,7,28,"winter","morning",-46.6475472645834,168.336893543601,"1-1.5","2",10,"seabirds",NA,"tern","black-fronted_tern",NA,1,"flying_N",NA,NA,NA,"Black-fronted tern"
+2025-07-28,8H 44M 51S,2025,7,28,"winter","morning",-46.6452168859541,168.338755331934,"1-1.5","2",10,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-07-28,8H 45M 2S,2025,7,28,"winter","morning",-46.6441671364009,168.339571561664,"1-1.5","2",10,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water","0-50m",NA,NA,"Buller's mollymawk"
+2025-07-28,8H 45M 19S,2025,7,28,"winter","morning",-46.6424835892394,168.340900428593,"1-1.5","2",10,"seabirds",NA,"tern","tern_sp","dont_know",1,"flying_W",NA,NA,NA,"Unknown tern"
+2025-07-28,8H 45M 29S,2025,7,28,"winter","morning",-46.6416521044448,168.341561006382,"1-1.5","2",10,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water","0-50m",NA,NA,"Buller's mollymawk"
+2025-07-28,8H 46M 1S,2025,7,28,"winter","morning",-46.6386272013187,168.34389754571,"1-1.5","2",10,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-07-28,8H 46M 39S,2025,7,28,"winter","morning",-46.6351146809757,168.346616048366,"1-1.5","2",10,"seabirds",NA,"petrel","Cape_pigeon",NA,1,"sitting_on_water","50-100m",NA,NA,"Cape petrel"
+2025-07-28,8H 51M 1S,2025,7,28,"winter","morning",-46.6127060400322,168.363424278796,"1-1.5","2",10,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_S",NA,NA,NA,"Spotted shag"
+2025-07-28,8H 51M 10S,2025,7,28,"winter","morning",-46.6119972663,168.363154549152,"1-1.5","2",10,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-07-28,8H 51M 16S,2025,7,28,"winter","morning",-46.6113765444607,168.362839305773,"1-1.5","2",10,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_S",NA,NA,NA,"Spotted shag"
+2025-07-28,8H 51M 43S,2025,7,28,"winter","morning",-46.609121854417,168.361367192119,"1-1.5","2",10,"seabirds",NA,"shag","other",NA,1,"sitting_on_water","50-100m",NA,NA,"Unknown shag"
+2025-07-28,8H 51M 58S,2025,7,28,"winter","morning",-46.607739594765,168.360395142809,"1-1.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 35M 33S,2025,8,15,"winter","afternoon",-46.6059357253835,168.359839925542,"1-1.5","2",11,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 37M 44S,2025,8,15,"winter","afternoon",-46.619644202292,168.359226286411,"1-1.5","2",11,"seabirds",NA,"shag","other","adult",1,"flying_N",NA,NA,"Pied","Unknown shag"
+2025-08-15,16H 38M 55S,2025,8,15,"winter","afternoon",-46.6268863761798,168.356276191771,"1-1.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 39M 4S,2025,8,15,"winter","afternoon",-46.6277306852862,168.355942424387,"1-1.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 40M 56S,2025,8,15,"winter","afternoon",-46.6393002262339,168.350853603333,"1.5-2","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 41M 33S,2025,8,15,"winter","afternoon",-46.6429987410083,168.348839767277,"0.5-1","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 45M 34S,2025,8,15,"winter","afternoon",-46.6670284001157,168.333759466186,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,16H 47M 8S,2025,8,15,"winter","afternoon",-46.6764293750748,168.328211484477,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",3,"foraging",NA,NA,"Follow boat","Unknown (Thalassarche) mollymawk"
+2025-08-15,16H 47M 34S,2025,8,15,"winter","afternoon",-46.679284167476,168.326966017485,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,2,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-15,16H 48M 30S,2025,8,15,"winter","afternoon",-46.6847216757014,168.323035743088,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,16H 51M 48S,2025,8,15,"winter","afternoon",-46.7042165994644,168.309422107413,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","white-capped_mollymawk","dont_know",1,"flying_S",NA,NA,"Probably","White-capped mollymawk"
+2025-08-15,16H 51M 56S,2025,8,15,"winter","afternoon",-46.7051002196968,168.308823136613,"0.5-1","4",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,16H 52M 44S,2025,8,15,"winter","afternoon",-46.7096759425476,168.305374402553,"0.5-1","4",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Maybe yhat was a black browed it has stromg blsck wing tips",NA
+2025-08-15,16H 53M 30S,2025,8,15,"winter","afternoon",-46.7141489451751,168.301982581615,"0.5-1","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,16H 58M 28S,2025,8,15,"winter","afternoon",-46.7434247536585,168.280075220391,"0.5-1","3",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,17H 2M 37S,2025,8,15,"winter","afternoon",-46.7677424149588,168.260838417336,"0.5-1","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 3M 39S,2025,8,15,"winter","afternoon",-46.7736242897809,168.255877839401,"0.5-1","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 5M 0S,2025,8,15,"winter","afternoon",-46.7815832421184,168.249166784808,"0.5-1","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 5M 41S,2025,8,15,"winter","afternoon",-46.785598048009,168.246045196429,"0.5-1","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 6M 33S,2025,8,15,"winter","afternoon",-46.7908170400187,168.242350453511,"0.5-1","3",11,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-15,17H 6M 44S,2025,8,15,"winter","afternoon",-46.791895958595,168.241580240428,"0.5-1","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 6M 53S,2025,8,15,"winter","afternoon",-46.7927727056667,168.240919243544,"0.5-1","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 7M 3S,2025,8,15,"winter","afternoon",-46.7937799170613,168.240232346579,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 7M 58S,2025,8,15,"winter","afternoon",-46.7991351149976,168.236016081646,"0-0.5","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 8M 29S,2025,8,15,"winter","afternoon",-46.8021201621741,168.233515927568,"0-0.5","3",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",1,"flying_S",NA,NA,"Bullers  prob","Unknown (Thalassarche) mollymawk"
+2025-08-15,17H 10M 56S,2025,8,15,"winter","afternoon",-46.8158564250916,168.221289245412,"0-0.5","3",11,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-08-15,17H 16M 20S,2025,8,15,"winter","afternoon",-46.8464492820203,168.193782437593,"0-0.5","3",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,2,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,17H 17M 35S,2025,8,15,"winter","afternoon",-46.8539774464443,168.187540350482,"0-0.5","3",11,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-15,17H 18M 47S,2025,8,15,"winter","afternoon",-46.8610116653144,168.181259874254,"0-0.5","3",11,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-08-15,17H 20M 3S,2025,8,15,"winter","afternoon",-46.8682847684249,168.174347570166,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 20M 10S,2025,8,15,"winter","afternoon",-46.8689324799925,168.173700319603,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 22M 19S,2025,8,15,"winter","afternoon",-46.8806487461552,168.160348199308,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 22M 27S,2025,8,15,"winter","afternoon",-46.8812585296109,168.159550828859,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 24M 8S,2025,8,15,"winter","afternoon",-46.8888003565371,168.146922653541,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-15,17H 24M 20S,2025,8,15,"winter","afternoon",-46.8896028818563,168.145115766674,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,7H 59M 13S,2025,8,16,"winter","morning",-46.8910649372265,168.142332052812,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain on window blocking a bit of vis",NA
+2025-08-16,7H 59M 44S,2025,8,16,"winter","morning",-46.8892131652683,168.14621899277,"0-0.5","1",12,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,8H 0M 33S,2025,8,16,"winter","morning",-46.8855157820508,168.152046762407,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,8H 0M 39S,2025,8,16,"winter","morning",-46.8849636660889,168.152680434287,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,8H 2M 10S,2025,8,16,"winter","morning",-46.8764131190255,168.161393590271,"0-0.5","2",12,"seabirds",NA,"shag","pied_shag",NA,1,"flying_S",NA,NA,NA,"Pied shag"
+2025-08-16,8H 2M 46S,2025,8,16,"winter","morning",-46.8729246966541,168.164557339624,"0-0.5","2",12,"seabirds",NA,"shag","black_shag",NA,1,"flying_W",NA,NA,NA,"Black shag"
+2025-08-16,8H 3M 8S,2025,8,16,"winter","morning",-46.8707412108779,168.166383840144,"0-0.5","2",12,"seabirds",NA,"shag","shag_sp","dont_know",1,"sitting_on_water","50-100m",NA,"Black or si bronze","Unknown shag"
+2025-08-16,8H 3M 53S,2025,8,16,"winter","morning",-46.8663527816534,168.170105321333,"0-0.5","2",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 4M 3S,2025,8,16,"winter","morning",-46.8652565963566,168.170969327912,"0-0.5","2",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 4M 46S,2025,8,16,"winter","morning",-46.8611127929762,168.174421750009,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,8H 15M 28S,2025,8,16,"winter","morning",-46.7974967462942,168.226283015683,"0-0.5","1",12,"seabirds",NA,"diving_petrel","common_diving_petrel","adult",1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-16,8H 19M 6S,2025,8,16,"winter","morning",-46.7760434327647,168.244076455012,"0-0.5","1",12,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-16,8H 21M 19S,2025,8,16,"winter","morning",-46.7629666579887,168.254711329937,"0-0.5","1",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 25M 37S,2025,8,16,"winter","morning",-46.7371580237523,168.274686075747,"0-0.5","1",12,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-16,8H 26M 24S,2025,8,16,"winter","morning",-46.7326477635652,168.27828777954,"0-0.5","1",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 40M 26S,2025,8,16,"winter","morning",-46.6478214785457,168.338750302792,"0-0.5","1",12,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,8H 42M 32S,2025,8,16,"winter","morning",-46.635360061191,168.348828619346,"0-0.5","1",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,4,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 43M 9S,2025,8,16,"winter","morning",-46.631818707101,168.351699002087,"0-0.5","1",12,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,2,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,8H 43M 52S,2025,8,16,"winter","morning",-46.6278171446174,168.354781363159,"0-0.5","1",12,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_W",NA,NA,NA,"Black-backed gull"
+2025-08-16,8H 46M 9S,2025,8,16,"winter","morning",-46.6146753681824,168.363438025117,"0-0.5","1",12,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_N",NA,NA,NA,"Red-billed gull"
+2025-08-16,8H 46M 50S,2025,8,16,"winter","morning",-46.6102628409863,168.36242582649,"0-0.5","1",12,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-08-16,8H 47M 16S,2025,8,16,"winter","morning",-46.6076625231653,168.361308099702,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,9H 45M 41S,2025,8,16,"winter","morning",-46.6070423880592,168.361343136057,"0-0.5","1",13,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,9H 46M 24S,2025,8,16,"winter","morning",-46.6123382840306,168.362909294665,"0-0.5","1",13,"seabirds",NA,"gull","red-billed_gull",NA,2,"flying_N",NA,NA,NA,"Red-billed gull"
+2025-08-16,9H 46M 45S,2025,8,16,"winter","morning",-46.614797366783,168.361858874559,"0-0.5","1",13,"seabirds",NA,"gull","red-billed_gull",NA,1,"sitting_on_water","50-100m",NA,NA,"Red-billed gull"
+2025-08-16,9H 46M 54S,2025,8,16,"winter","morning",-46.6159770358354,168.361126882955,"0-0.5","1",13,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_N",NA,"bronze",NA,"Stewart Island shag"
+2025-08-16,9H 47M 55S,2025,8,16,"winter","morning",-46.6230585705489,168.357027210295,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,9H 47M 59S,2025,8,16,"winter","morning",-46.623654733412,168.356713056564,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,9H 48M 45S,2025,8,16,"winter","morning",-46.6288923332468,168.353714179248,"0-0.5","2",13,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,9H 49M 2S,2025,8,16,"winter","morning",-46.6307320771739,168.352376343682,"0-0.5","2",13,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,3,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,9H 49M 19S,2025,8,16,"winter","morning",-46.6325856512412,168.35108586587,"0-0.5","2",13,"seabirds",NA,"shag","pied_shag",NA,1,"flying_W",NA,NA,NA,"Pied shag"
+2025-08-16,9H 51M 43S,2025,8,16,"winter","morning",-46.6476684249938,168.339672647417,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,9H 52M 13S,2025,8,16,"winter","morning",-46.6510025784373,168.337814379483,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Vis great",NA
+2025-08-16,9H 52M 50S,2025,8,16,"winter","morning",-46.6549379657954,168.335795262828,"0-0.5","1",13,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,9H 58M 34S,2025,8,16,"winter","morning",-46.6905064042658,168.309664176777,"0-0.5","1",13,"seabirds",NA,"albatross","northern_royal_albatross","adult",1,"sitting_on_water","50-100m",NA,"Pronably northern? patch of white on wing","Northern royal albatross"
+2025-08-16,10H 15M 19S,2025,8,16,"winter","morning",-46.791747934185,168.230967158452,"0-0.5","1",13,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-16,10H 19M 27S,2025,8,16,"winter","morning",-46.8160078441724,168.20993989706,"0-0.5","1",13,"seabirds",NA,"gull","red-billed_gull",NA,2,"flying_W",NA,NA,NA,"Red-billed gull"
+2025-08-16,10H 19M 36S,2025,8,16,"winter","morning",-46.8168079806492,168.20926297456,"0-0.5","1",13,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-08-16,10H 28M 28S,2025,8,16,"winter","morning",-46.8679009610787,168.166157528758,"0-0.5","1",13,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,10H 30M 40S,2025,8,16,"winter","morning",-46.8805523542687,168.15547102131,"0-0.5","1",13,"seabirds",NA,"gull","black-backed_gull",NA,1,"sitting_on_water","100-200m",NA,NA,"Black-backed gull"
+2025-08-16,10H 32M 17S,2025,8,16,"winter","morning",-46.8896334338933,168.145739547908,"0-0.5","1",13,"seabirds",NA,"mollymawk_sooty","white-capped_mollymawk",NA,1,"sitting_on_water","100-200m",NA,NA,"White-capped mollymawk"
+2025-08-16,10H 32M 23S,2025,8,16,"winter","morning",-46.8899018224329,168.145009819418,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,14H 55M 29S,2025,8,16,"winter","afternoon",-46.8897313345224,168.145357836038,"0-0.5","1",14,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,14H 56M 18S,2025,8,16,"winter","afternoon",-46.8860777048394,168.151496490464,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,14H 56M 27S,2025,8,16,"winter","afternoon",-46.8853090843186,168.152435515076,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,14H 56M 32S,2025,8,16,"winter","afternoon",-46.8848902406171,168.152944967151,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,14H 58M 17S,2025,8,16,"winter","afternoon",-46.8752923747525,168.162436131388,"0-0.5","1",14,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_W",NA,"bronze",NA,"Stewart Island shag"
+2025-08-16,14H 58M 39S,2025,8,16,"winter","afternoon",-46.8731934623793,168.164231535047,"0-0.5","1",14,"seabirds",NA,"shag","shag_sp",NA,1,"flying_E",NA,NA,NA,"Unknown shag"
+2025-08-16,15H 2M 31S,2025,8,16,"winter","afternoon",-46.8506199913099,168.184366794303,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,15H 10M 16S,2025,8,16,"winter","afternoon",-46.8044002074748,168.222564635798,"0-0.5","0",14,"seabirds",NA,"shag","pied_shag",NA,1,"sitting_on_water","50-100m",NA,NA,"Pied shag"
+2025-08-16,15H 16M 28S,2025,8,16,"winter","afternoon",-46.7672701785341,168.252585763112,"0-0.5","0",14,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-16,15H 17M 10S,2025,8,16,"winter","afternoon",-46.7629736987874,168.255727635697,"0-0.5","0",14,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","50-100m",NA,NA,"Common diving petrel"
+2025-08-16,15H 19M 53S,2025,8,16,"winter","afternoon",-46.7466602101922,168.268398810178,"0-0.5","0",14,"seabirds",NA,"penguin","blue_penguin",NA,1,"sitting_on_water","0-50m",NA,NA,"Blue penguin"
+2025-08-16,15H 29M 31S,2025,8,16,"winter","afternoon",-46.6883267322555,168.312984835356,"0-0.5","0",14,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,15H 36M 45S,2025,8,16,"winter","afternoon",-46.643226519227,168.343095481396,"0-0.5","0",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,15H 36M 52S,2025,8,16,"winter","afternoon",-46.6426282608882,168.34358766675,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,15H 38M 12S,2025,8,16,"winter","afternoon",-46.6341938870028,168.349474780262,"0-0.5","2",14,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,15H 40M 6S,2025,8,16,"winter","afternoon",-46.6217289492488,168.358150720596,"0-0.5","2",14,"seabirds",NA,"shag","shag_sp",NA,2,"flying_N",NA,NA,NA,"Unknown shag"
+2025-08-16,15H 41M 31S,2025,8,16,"winter","afternoon",-46.6122992662713,168.363037453964,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,16H 27M 58S,2025,8,16,"winter","afternoon",-46.6063345782459,168.360185762867,"0-0.5","2",15,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,16H 29M 33S,2025,8,16,"winter","afternoon",-46.616211142391,168.361890725791,"0-0.5","2",15,"seabirds",NA,"shag","pied_shag",NA,2,"flying_S",NA,NA,NA,"Pied shag"
+2025-08-16,16H 30M 12S,2025,8,16,"winter","afternoon",-46.6202323604375,168.359768092632,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,16H 30M 26S,2025,8,16,"winter","afternoon",-46.6215213714167,168.358631925657,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,16H 33M 42S,2025,8,16,"winter","afternoon",-46.6390489367768,168.341464865953,"0.5-1","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,16H 39M 19S,2025,8,16,"winter","afternoon",-46.6732420725748,168.315036054701,"0.5-1","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 39M 50S,2025,8,16,"winter","afternoon",-46.6764300875366,168.312601195648,"0.5-1","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_E",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 41M 16S,2025,8,16,"winter","afternoon",-46.6850233823061,168.305599875748,"0.5-1","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,16H 41M 49S,2025,8,16,"winter","afternoon",-46.6884662071243,168.303190581501,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 42M 22S,2025,8,16,"winter","afternoon",-46.691794032231,168.300551455468,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 42M 56S,2025,8,16,"winter","afternoon",-46.6951755434275,168.297763634473,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,2,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 43M 54S,2025,8,16,"winter","afternoon",-46.7012551054358,168.293209830299,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 44M 18S,2025,8,16,"winter","afternoon",-46.7035518307239,168.291591284797,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_W",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,16H 46M 43S,2025,8,16,"winter","afternoon",-46.7188985086977,168.281298140064,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,16H 49M 32S,2025,8,16,"winter","afternoon",-46.736945793964,168.269730946049,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,16H 50M 8S,2025,8,16,"winter","afternoon",-46.74079392571,168.267174800858,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-16,16H 51M 36S,2025,8,16,"winter","afternoon",-46.7501676175743,168.261164138094,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp","dont_know",2,"sitting_on_water","0-50m",NA,"100; m ahead","Unknown (Thalassarche) mollymawk"
+2025-08-16,16H 51M 59S,2025,8,16,"winter","afternoon",-46.7526235571131,168.259679619223,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-16,16H 52M 45S,2025,8,16,"winter","afternoon",-46.7575889546424,168.256587199867,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"The diving petrel at the emd of tne last trip may be flutterimg",NA
+2025-08-16,16H 53M 10S,2025,8,16,"winter","afternoon",-46.7602090537548,168.255135957152,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,16H 54M 58S,2025,8,16,"winter","afternoon",-46.7716485075653,168.247425444424,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-16,16H 57M 7S,2025,8,16,"winter","afternoon",-46.7855123849586,168.238110970706,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-08-16,16H 57M 48S,2025,8,16,"winter","afternoon",-46.7896364070475,168.235323987901,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-16,17H 0M 1S,2025,8,16,"winter","afternoon",-46.8038828345016,168.225795356557,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,17H 4M 42S,2025,8,16,"winter","afternoon",-46.8323459336534,168.203313332051,"0-0.5","1",15,"seabirds",NA,"shag","shag_sp",NA,1,"flying_E",NA,NA,NA,"Unknown shag"
+2025-08-16,17H 5M 21S,2025,8,16,"winter","afternoon",-46.8363002641127,168.200021004304,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,6,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 5M 53S,2025,8,16,"winter","afternoon",-46.8395953578874,168.197260759771,"0-0.5","1",15,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-16,17H 7M 58S,2025,8,16,"winter","afternoon",-46.8523111240938,168.186553465202,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 8M 40S,2025,8,16,"winter","afternoon",-46.8565844278783,168.182824356481,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,17H 11M 46S,2025,8,16,"winter","afternoon",-46.8750834558159,168.165159160271,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 11M 57S,2025,8,16,"winter","afternoon",-46.8761360133067,168.164002373815,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 12M 8S,2025,8,16,"winter","afternoon",-46.8771743215621,168.162847599015,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,17H 12M 27S,2025,8,16,"winter","afternoon",-46.8789763050154,168.160826638341,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-16,17H 12M 54S,2025,8,16,"winter","afternoon",-46.8814539536834,168.15783681348,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-16,17H 13M 42S,2025,8,16,"winter","afternoon",-46.8858349649236,168.152583958581,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 14M 7S,2025,8,16,"winter","afternoon",-46.8879035348073,168.149457760155,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water","100-200m",NA,NA,"Buller's mollymawk"
+2025-08-16,17H 14M 16S,2025,8,16,"winter","afternoon",-46.888537039049,168.148228889331,"0-0.5","1",15,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,2,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-16,17H 14M 24S,2025,8,16,"winter","afternoon",-46.8889819085598,168.147252397612,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,7H 57M 10S,2025,8,17,"winter","morning",-46.8888918,168.1477929,"0-0.5","1",16,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,7H 57M 36S,2025,8,17,"winter","morning",-46.8866478,168.1513613,"0-0.5","1",16,"seabirds",NA,"shag","pied_shag",NA,1,"flying_S",NA,NA,NA,"Pied shag"
+2025-08-17,7H 58M 12S,2025,8,17,"winter","morning",-46.8834799,168.1551015,"0-0.5","1",16,"seabirds",NA,"gull","red-billed_gull",NA,4,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-08-17,7H 58M 56S,2025,8,17,"winter","morning",-46.87949158,168.1592168,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain on window",NA
+2025-08-17,7H 59M 6S,2025,8,17,"winter","morning",-46.87851962,168.1601564,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,7H 59M 10S,2025,8,17,"winter","morning",-46.87813552,168.1605341,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,8H 0M 7S,2025,8,17,"winter","morning",-46.87270497,168.1654808,"0-0.5","2",16,"seabirds",NA,"shag","pied_shag",NA,2,"flying_E",NA,NA,NA,"Pied shag"
+2025-08-17,8H 2M 31S,2025,8,17,"winter","morning",-46.85900382,168.1783291,"0-0.5","2",16,"seabirds",NA,"shag","pied_shag",NA,1,"sitting_on_water","50-100m",NA,NA,"Pied shag"
+2025-08-17,8H 2M 47S,2025,8,17,"winter","morning",-46.85746742,168.1797456,"0-0.5","2",16,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-17,8H 3M 7S,2025,8,17,"winter","morning",-46.85542006,168.1815579,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Vis is pretty bad rn",NA
+2025-08-17,8H 10M 50S,2025,8,17,"winter","morning",-46.80964606,168.2205246,"0-0.5","2",16,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water","0-50m",NA,NA,"Buller's mollymawk"
+2025-08-17,8H 11M 9S,2025,8,17,"winter","morning",-46.80767523,168.2222995,"0-0.5","2",16,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-17,8H 14M 48S,2025,8,17,"winter","morning",-46.78584133,168.2404533,"0-0.5","2",16,"seabirds",NA,"shearwater","fluttering_Hutton's_shearwater","dont_know",1,"flying_W",NA,NA,"Perhaps? Caitlin said it was gliding like the fluttering","Fluttering/Hutton's shearwater"
+2025-08-17,8H 24M 24S,2025,8,17,"winter","morning",-46.72873832,168.2881694,"0-0.5","2",16,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,8H 26M 18S,2025,8,17,"winter","morning",-46.71730197,168.2971741,"0-0.5","2",16,"seabirds",NA,"petrel","Cape_pigeon",NA,1,"flying_W",NA,NA,NA,"Cape petrel"
+2025-08-17,8H 30M 22S,2025,8,17,"winter","morning",-46.69239099,168.3157263,"0-0.5","2",16,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,8H 34M 23S,2025,8,17,"winter","morning",-46.66752964,168.3332738,"0-0.5","2",16,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-17,8H 34M 57S,2025,8,17,"winter","morning",-46.66401695,168.3357794,"0-0.5","2",16,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_N",NA,NA,NA,"Red-billed gull"
+2025-08-17,8H 36M 17S,2025,8,17,"winter","morning",-46.65558522,168.340769,"0-0.5","2",16,"seabirds",NA,"shag","pied_shag",NA,1,"flying_W",NA,NA,NA,"Pied shag"
+2025-08-17,8H 39M 40S,2025,8,17,"winter","morning",-46.63428068,168.3531709,"0-0.5","2",16,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_E",NA,"bronze",NA,"Stewart Island shag"
+2025-08-17,8H 42M 25S,2025,8,17,"winter","morning",-46.61638406,168.3611559,"0-0.5","2",16,"seabirds",NA,"tern","tern_sp",NA,2,"flying_E",NA,NA,NA,"Unknown tern"
+2025-08-17,8H 43M 9S,2025,8,17,"winter","morning",-46.6117161,168.3637131,"0-0.5","2",16,"seabirds",NA,"gull","red-billed_gull",NA,7,"flying_W",NA,NA,NA,"Red-billed gull"
+2025-08-17,8H 43M 49S,2025,8,17,"winter","morning",-46.60729988,168.3630399,"0-0.5","2",16,"seabirds",NA,"tern","white-fronted_tern",NA,1,"flying_W",NA,NA,NA,"White-fronted tern"
+2025-08-17,8H 43M 55S,2025,8,17,"winter","morning",-46.60641882,168.3626476,"0-0.5","2",16,"seabirds",NA,"gull","black-billed_gull",NA,NA,"flying_W",NA,NA,NA,"Black-billed gull"
+2025-08-17,8H 45M 40S,2025,8,17,"winter","morning",-46.59856573,168.3511538,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,9H 42M 58S,2025,8,17,"winter","morning",-46.60462123,168.3608469,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Clear vis",NA
+2025-08-17,9H 43M 3S,2025,8,17,"winter","morning",-46.60508429,168.3611585,"0-0.5","2",17,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,9H 43M 35S,2025,8,17,"winter","morning",-46.60861215,168.3632099,"0-0.5","2",17,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-17,9H 44M 9S,2025,8,17,"winter","morning",-46.61285524,168.3632135,"0-0.5","2",17,"seabirds",NA,"tern","tern_sp",NA,2,"flying_E",NA,NA,NA,"Unknown tern"
+2025-08-17,9H 44M 16S,2025,8,17,"winter","morning",-46.61343954,168.362976,"0-0.5","2",17,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_E",NA,NA,NA,"Red-billed gull"
+2025-08-17,9H 45M 36S,2025,8,17,"winter","morning",-46.62270787,168.3591813,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,9H 45M 42S,2025,8,17,"winter","morning",-46.62323836,168.3588452,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,9H 46M 13S,2025,8,17,"winter","morning",-46.62660814,168.3561326,"0.5-1","1",17,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,9H 46M 25S,2025,8,17,"winter","morning",-46.62782238,168.355488,"0.5-1","1",17,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_N",NA,NA,NA,"Black-backed gull"
+2025-08-17,9H 46M 51S,2025,8,17,"winter","morning",-46.6306706,168.3547877,"0.5-1","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,9H 47M 14S,2025,8,17,"winter","morning",-46.63329648,168.3546991,"0-0.5","1",17,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-17,9H 49M 33S,2025,8,17,"winter","morning",-46.64749777,168.3452589,"0-0.5","1",17,"seabirds",NA,"tern","white-fronted_tern",NA,1,"flying_W",NA,NA,NA,"White-fronted tern"
+2025-08-17,9H 50M 33S,2025,8,17,"winter","morning",-46.65339544,168.3406398,"0-0.5","1",17,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,9H 56M 12S,2025,8,17,"winter","morning",-46.685022,168.3099504,"0-0.5","1",17,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_W",NA,"bronze",NA,"Stewart Island shag"
+2025-08-17,9H 57M 0S,2025,8,17,"winter","morning",-46.68995965,168.3068167,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Sea lion? DIRECTLY INFROMT OF BOAT",NA
+2025-08-17,10H 8M 52S,2025,8,17,"winter","morning",-46.76250008,168.2579458,"0-0.5","1",17,"seabirds",NA,"tern","white-fronted_tern",NA,1,"flying_W",NA,NA,NA,"White-fronted tern"
+2025-08-17,10H 9M 19S,2025,8,17,"winter","morning",-46.76526636,168.2558293,"0-0.5","1",17,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_E",NA,NA,NA,"Spotted shag"
+2025-08-17,10H 12M 53S,2025,8,17,"winter","morning",-46.78674394,168.2402638,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,10H 19M 56S,2025,8,17,"winter","morning",-46.82829437,168.2068478,"0-0.5","1",17,"seabirds",NA,"mollymawk_sooty","black-browed_mollymawk","dont_know",1,"sitting_on_water","0-50m",NA,"White face yellow beak","Black-browed mollymawk"
+2025-08-17,10H 20M 9S,2025,8,17,"winter","morning",-46.82959277,168.2058571,"0-0.5","1",17,"seabirds",NA,"shag","pied_shag",NA,1,"sitting_on_water","50-100m",NA,NA,"Pied shag"
+2025-08-17,10H 20M 34S,2025,8,17,"winter","morning",-46.83209414,168.2036839,"0-0.5","1",17,"seabirds",NA,"tern","black-fronted_tern",NA,NA,"flying_N",NA,NA,NA,"Black-fronted tern"
+2025-08-17,10H 22M 5S,2025,8,17,"winter","morning",-46.84087917,168.1959658,"0-0.5","1",17,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"sitting_on_water","0-50m",NA,NA,"Buller's mollymawk"
+2025-08-17,10H 22M 26S,2025,8,17,"winter","morning",-46.84294996,168.1941134,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,10H 23M 29S,2025,8,17,"winter","morning",-46.84875875,168.1886876,"0-0.5","1",17,"seabirds",NA,"tern","black-fronted_tern",NA,1,"flying_N",NA,NA,NA,"Black-fronted tern"
+2025-08-17,10H 27M 15S,2025,8,17,"winter","morning",-46.86995381,168.1684751,"0-0.5","1",17,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,10H 28M 23S,2025,8,17,"winter","morning",-46.87625516,168.162393,"0-0.5","1",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain",NA
+2025-08-17,10H 29M 26S,2025,8,17,"winter","morning",-46.88221817,168.1563515,"0-0.5","1",17,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water","50-100m","pied",NA,"Stewart Island shag"
+2025-08-17,10H 29M 40S,2025,8,17,"winter","morning",-46.88334315,168.1552265,"0-0.5","1",17,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_N",NA,NA,NA,"Black-backed gull"
+2025-08-17,10H 29M 50S,2025,8,17,"winter","morning",-46.88436658,168.1541275,"0-0.5","1",17,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water","0-50m",NA,NA,"Unknown shag"
+2025-08-17,10H 29M 56S,2025,8,17,"winter","morning",-46.88493496,168.1535542,"0-0.5","1",17,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_S",NA,NA,NA,"Black-backed gull"
+2025-08-17,10H 30M 27S,2025,8,17,"winter","morning",-46.88761855,168.1501956,"0-0.5","1",17,"seabirds",NA,"gull","black-backed_gull",NA,7,"sitting_on_water","100-200m",NA,NA,"Black-backed gull"
+2025-08-17,10H 30M 42S,2025,8,17,"winter","morning",-46.8886859,168.1480367,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 2M 43S,2025,8,17,"winter","afternoon",-46.89162254,168.1415955,"0-0.5","1",18,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 4M 18S,2025,8,17,"winter","afternoon",-46.88464863,168.1538249,"0-0.5","1",18,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-08-17,15H 5M 16S,2025,8,17,"winter","afternoon",-46.87899231,168.1589198,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 5M 22S,2025,8,17,"winter","afternoon",-46.87839716,168.159445,"0-0.5","0",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 7M 4S,2025,8,17,"winter","afternoon",-46.8681621,168.1680051,"0-0.5","0",18,"seabirds",NA,"skua","shearwater_sp","dont_know",1,"flying_E",NA,NA,"Potentially a blakc back gull or gismt petrel","Unknown shearwater"
+2025-08-17,15H 7M 46S,2025,8,17,"winter","afternoon",-46.86390162,168.1715675,"0-0.5","0",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-17,15H 10M 39S,2025,8,17,"winter","afternoon",-46.84801158,168.1855383,"0-0.5","0",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Mussel float",NA
+2025-08-17,15H 10M 48S,2025,8,17,"winter","afternoon",-46.84771185,168.1857726,"0-0.5","0",18,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,15H 12M 37S,2025,8,17,"winter","afternoon",-46.84431211,168.1888448,"0-0.5","0",18,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_W",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,15H 13M 21S,2025,8,17,"winter","afternoon",-46.84013209,168.1928002,"0-0.5","0",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 13M 56S,2025,8,17,"winter","afternoon",-46.8367658,168.1957485,"0-0.5","1",18,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_N",NA,"pied",NA,"Stewart Island shag"
+2025-08-17,15H 14M 40S,2025,8,17,"winter","afternoon",-46.83212591,168.1994752,"0-0.5","1",18,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water","50-100m",NA,NA,"Buller's mollymawk"
+2025-08-17,15H 15M 0S,2025,8,17,"winter","afternoon",-46.830186,168.200877,"0-0.5","1",18,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water","100-200m","dont_know",NA,"Stewart Island shag"
+2025-08-17,15H 16M 16S,2025,8,17,"winter","afternoon",-46.82242457,168.2068922,"0-0.5","1",18,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-08-17,15H 16M 50S,2025,8,17,"winter","afternoon",-46.81909226,168.209553,"0-0.5","1",18,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water; sitting_on_water","50-100m","pied",NA,"Stewart Island shag"
+2025-08-17,15H 17M 55S,2025,8,17,"winter","afternoon",-46.8127552,168.2151261,"0-0.5","1",18,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"sitting_on_water; sitting_on_water",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,15H 18M 7S,2025,8,17,"winter","afternoon",-46.81167109,168.2160347,"0-0.5","1",18,"seabirds",NA,"gull","red-billed_gull",NA,1,"sitting_on_water; sitting_on_water",NA,NA,NA,"Red-billed gull"
+2025-08-17,15H 18M 50S,2025,8,17,"winter","afternoon",-46.80729469,168.2195194,"0-0.5","1",18,"seabirds",NA,"penguin","blue_penguin","dont_know",1,"sitting_on_water; sitting_on_water","0-50m",NA,"3 minutes ago next to thr other thing on the water","Blue penguin"
+2025-08-17,15H 19M 17S,2025,8,17,"winter","afternoon",-46.80455955,168.2216622,"0-0.5","1",18,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water",NA,"pied",NA,"Stewart Island shag"
+2025-08-17,15H 19M 37S,2025,8,17,"winter","afternoon",-46.80269956,168.22312,"0-0.5","1",18,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-17,15H 21M 1S,2025,8,17,"winter","afternoon",-46.79437231,168.2296532,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 23M 20S,2025,8,17,"winter","afternoon",-46.78054778,168.2405345,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","50-100m",NA,NA,"Common diving petrel"
+2025-08-17,15H 24M 13S,2025,8,17,"winter","afternoon",-46.77525583,168.2448235,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-08-17,15H 25M 21S,2025,8,17,"winter","afternoon",-46.76845794,168.2501408,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-08-17,15H 25M 30S,2025,8,17,"winter","afternoon",-46.76748995,168.2509863,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","50-100m",NA,NA,"Common diving petrel"
+2025-08-17,15H 25M 39S,2025,8,17,"winter","afternoon",-46.76668294,168.2516172,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-17,15H 25M 56S,2025,8,17,"winter","afternoon",-46.76497035,168.2529549,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water","0-50m",NA,NA,"Common diving petrel"
+2025-08-17,15H 27M 35S,2025,8,17,"winter","afternoon",-46.75509722,168.2608782,"0-0.5","1",18,"seabirds",NA,"penguin","blue_penguin",NA,1,"sitting_on_water","0-50m",NA,NA,"Blue penguin"
+2025-08-17,15H 30M 45S,2025,8,17,"winter","afternoon",-46.73602848,168.2751957,"0-0.5","1",18,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-17,15H 32M 6S,2025,8,17,"winter","afternoon",-46.72786316,168.2815178,"0-0.5","1",18,"seabirds",NA,"penguin","blue_penguin",NA,1,"sitting_on_water","0-50m",NA,NA,"Blue penguin"
+2025-08-17,15H 34M 31S,2025,8,17,"winter","afternoon",-46.71366497,168.2931025,"0-0.5","1",18,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"sitting_on_water","100-200m",NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-08-17,15H 39M 55S,2025,8,17,"winter","afternoon",-46.68132918,168.3178204,"0-0.5","1",18,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-08-17,15H 48M 57S,2025,8,17,"winter","afternoon",-46.62503603,168.3543238,"0-0.5","1",18,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_W",NA,NA,NA,"Red-billed gull"
+2025-08-17,15H 49M 57S,2025,8,17,"winter","afternoon",-46.61890412,168.3594402,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,15H 51M 17S,2025,8,17,"winter","afternoon",-46.61008418,168.3622057,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,16H 30M 1S,2025,8,17,"winter","afternoon",-46.60215746,168.3566584,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,16H 30M 5S,2025,8,17,"winter","afternoon",-46.60240602,168.3569293,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,16H 30M 41S,2025,8,17,"winter","afternoon",-46.60551789,168.3602517,"0-0.5","2",19,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,16H 31M 12S,2025,8,17,"winter","afternoon",-46.60853294,168.3628094,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Bit of rain",NA
+2025-08-17,16H 32M 10S,2025,8,17,"winter","afternoon",-46.6143118,168.3620751,"0-0.5","2",19,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_W",NA,NA,NA,"Black-backed gull"
+2025-08-17,16H 33M 21S,2025,8,17,"winter","afternoon",-46.62154027,168.3580249,"0-0.5","2",19,"seabirds",NA,"shag","shag_sp",NA,1,"flying_W",NA,NA,NA,"Unknown shag"
+2025-08-17,16H 33M 51S,2025,8,17,"winter","afternoon",-46.62460713,168.3564198,"0-0.5","2",19,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_W",NA,NA,NA,"Spotted shag"
+2025-08-17,16H 36M 50S,2025,8,17,"winter","afternoon",-46.64251498,168.3463242,"0-0.5","2",19,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_E",NA,"pied",NA,"Stewart Island shag"
+2025-08-17,16H 37M 14S,2025,8,17,"winter","afternoon",-46.64490927,168.344558,"0-0.5","2",19,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water","0-50m",NA,NA,"Unknown shag"
+2025-08-17,16H 40M 24S,2025,8,17,"winter","afternoon",-46.66395786,168.3308925,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-17,16H 44M 28S,2025,8,17,"winter","afternoon",-46.68792176,168.3118394,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Awful vis",NA
+2025-08-17,16H 45M 9S,2025,8,17,"winter","afternoon",-46.69183255,168.3088944,"0-0.5","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-18,8H 1M 58S,2025,8,18,"winter","morning",-46.8856740323827,168.152215657756,"0-0.5","2",20,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-18,8H 2M 23S,2025,8,18,"winter","morning",-46.8835104536265,168.154601315036,"0-0.5","2",20,"seabirds",NA,"tern","tern_sp","dont_know",2,"flying_W",NA,NA,NA,"Unknown tern"
+2025-08-18,8H 3M 12S,2025,8,18,"winter","morning",-46.8791947793215,168.159443037584,"0-0.5","2",20,"seabirds",NA,"tern","tern_sp",NA,2,"flying_N",NA,NA,NA,"Unknown tern"
+2025-08-18,8H 3M 30S,2025,8,18,"winter","morning",-46.8775724200532,168.16099553369,"0-0.5","2",20,"seabirds",NA,"shag","spotted_shag",NA,1,"sitting_on_water",NA,NA,NA,"Spotted shag"
+2025-08-18,8H 4M 18S,2025,8,18,"winter","morning",-46.8733029719442,168.164952127263,"0-0.5","2",20,"seabirds",NA,"shag","shag_sp",NA,2,"flying_N",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 5M 58S,2025,8,18,"winter","morning",-46.8638342292979,168.173076119274,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-18,8H 6M 3S,2025,8,18,"winter","morning",-46.8633503839374,168.173454226926,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-18,8H 7M 6S,2025,8,18,"winter","morning",-46.8571670120582,168.178153373301,"0.5-1","2",20,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_N",NA,"pied",NA,"Stewart Island shag"
+2025-08-18,8H 12M 55S,2025,8,18,"winter","morning",-46.8230148218572,168.203625474125,"0.5-1","2",20,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 17M 26S,2025,8,18,"winter","morning",-46.7960252193734,168.224759269506,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 18M 27S,2025,8,18,"winter","morning",-46.7900317395106,168.229344002902,"0.5-1","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Terrible visibility",NA
+2025-08-18,8H 18M 35S,2025,8,18,"winter","morning",-46.7892380570993,168.229932999238,"0.5-1","2",20,"seabirds",NA,"penguin","blue_penguin",NA,1,"sitting_on_water",NA,NA,NA,"Blue penguin"
+2025-08-18,8H 19M 9S,2025,8,18,"winter","morning",-46.7859354196116,168.232282279059,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 19M 40S,2025,8,18,"winter","morning",-46.7828813893721,168.234604401514,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 21M 18S,2025,8,18,"winter","morning",-46.7731973156333,168.242012662813,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 24M 28S,2025,8,18,"winter","morning",-46.754462714307,168.255890328437,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 26M 18S,2025,8,18,"winter","morning",-46.743872682564,168.264221772552,"0.5-1","2",20,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-08-18,8H 27M 39S,2025,8,18,"winter","morning",-46.736061712727,168.270519264042,"0.5-1","2",20,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-08-18,8H 35M 52S,2025,8,18,"winter","morning",-46.6879895702004,168.309532916173,"0.5-1","2",20,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-08-18,8H 45M 43S,2025,8,18,"winter","morning",-46.6288582189009,168.351411083713,"0.5-1","2",20,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 45M 49S,2025,8,18,"winter","morning",-46.6283521195874,168.351731859148,"0.5-1","2",20,"seabirds",NA,"shag","shag_sp",NA,1,"flying_E",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 46M 8S,2025,8,18,"winter","morning",-46.6264599468559,168.352824021131,"0.5-1","2",20,"seabirds",NA,"tern","tern_sp",NA,2,"flying_E",NA,NA,NA,"Unknown tern"
+2025-08-18,8H 46M 42S,2025,8,18,"winter","morning",-46.6228794911876,168.355153854936,"0.5-1","2",20,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-08-18,8H 47M 17S,2025,8,18,"winter","morning",-46.6195038054138,168.357653589919,"0.5-1","2",20,"seabirds",NA,"shag","shag_sp",NA,1,"flying_N",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 47M 40S,2025,8,18,"winter","morning",-46.617255276069,168.359268615022,"0.5-1","2",20,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_S",NA,NA,NA,"Spotted shag"
+2025-08-18,8H 48M 4S,2025,8,18,"winter","morning",-46.6150657553226,168.360985564068,"0.5-1","2",20,"seabirds",NA,"shag","shag_sp",NA,1,"flying_N",NA,NA,NA,"Unknown shag"
+2025-08-18,8H 48M 40S,2025,8,18,"winter","morning",-46.611051033251,168.362060040236,"0.5-1","2",20,"seabirds",NA,"shag","spotted_shag",NA,2,"flying_N",NA,NA,NA,"Spotted shag"
+2025-08-18,8H 48M 53S,2025,8,18,"winter","morning",-46.6095453081653,168.361724093556,"0.5-1","2",20,"seabirds",NA,"gull","black-backed_gull",NA,2,"flying_N",NA,NA,NA,"Black-backed gull"
+2025-08-18,8H 49M 3S,2025,8,18,"winter","morning",-46.6084274137393,168.361289156601,"0.5-1","2",20,"seabirds",NA,"shag","spotted_shag",NA,1,"flying_E",NA,NA,NA,"Spotted shag"
+2025-08-18,8H 49M 13S,2025,8,18,"winter","morning",-46.6073241457343,168.360749864951,"0.5-1","2",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 35M 36S,2025,9,26,"winter","afternoon",-46.5984556730837,168.348195701838,"0.5-1","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain; bad vis",NA
+2025-09-26,16H 38M 46S,2025,9,26,"winter","afternoon",-46.6073747724295,168.360321717337,"0.5-1","2",21,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 39M 25S,2025,9,26,"winter","afternoon",-46.6114285122603,168.362525990233,"0.5-1","2",21,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water",NA,"pied",NA,"Stewart Island shag"
+2025-09-26,16H 40M 17S,2025,9,26,"winter","afternoon",-46.6168669844046,168.36108497344,"0.5-1","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 40M 24S,2025,9,26,"winter","afternoon",-46.6175926895812,168.360778698698,"0.5-1","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 41M 20S,2025,9,26,"winter","afternoon",-46.6235074633732,168.358411984518,"1-1.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 41M 45S,2025,9,26,"winter","afternoon",-46.62597136572,168.357595000416,"0-0.5","3",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Bit foggy",NA
+2025-09-26,16H 44M 3S,2025,9,26,"winter","afternoon",-46.6394466999918,168.349298844114,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 45M 33S,2025,9,26,"winter","afternoon",-46.647999342531,168.343036556616,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 45M 42S,2025,9,26,"winter","afternoon",-46.648903246969,168.342426689342,"0.5-1","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,16H 49M 18S,2025,9,26,"winter","afternoon",-46.6703294031322,168.329253187403,"0-0.5","2",21,"seabirds",NA,"tern","white-fronted_tern",NA,2,"flying_W",NA,NA,NA,"White-fronted tern"
+2025-09-26,16H 56M 35S,2025,9,26,"winter","afternoon",-46.7127832397819,168.300566207618,"0-0.5","2",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"Rain stopped; better vis",NA
+2025-09-26,17H 0M 50S,2025,9,26,"winter","afternoon",-46.7374591436237,168.283672146499,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 0M 58S,2025,9,26,"winter","afternoon",-46.7383089428768,168.282981477678,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 2M 18S,2025,9,26,"winter","afternoon",-46.746024065651,168.277278179303,"0-0.5","3",21,"seabirds",NA,"tern","white-fronted_tern",NA,2,"flying_N",NA,NA,NA,"White-fronted tern"
+2025-09-26,17H 6M 7S,2025,9,26,"winter","afternoon",-46.7677033133805,168.260006681085,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 6M 37S,2025,9,26,"winter","afternoon",-46.7705019889399,168.257975494489,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 6M 56S,2025,9,26,"winter","afternoon",-46.7724578641355,168.256309339777,"0-0.5","3",21,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-26,17H 8M 7S,2025,9,26,"winter","afternoon",-46.7790330061689,168.251090431586,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 8M 17S,2025,9,26,"winter","afternoon",-46.7800822947174,168.250269675627,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 10M 8S,2025,9,26,"winter","afternoon",-46.790468855761,168.241860866547,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 10M 15S,2025,9,26,"winter","afternoon",-46.7910418426618,168.241436826065,"0-0.5","3",21,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-26,17H 12M 3S,2025,9,26,"winter","afternoon",-46.8009310215712,168.232634151354,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 12M 17S,2025,9,26,"winter","afternoon",-46.8022286659107,168.231443502009,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 12M 39S,2025,9,26,"winter","afternoon",-46.8042220501229,168.229625467211,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 12M 55S,2025,9,26,"winter","afternoon",-46.805736743845,168.228355357423,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 13M 10S,2025,9,26,"winter","afternoon",-46.8071389105171,168.227263698354,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 13M 17S,2025,9,26,"winter","afternoon",-46.8076996598393,168.226752737537,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 13M 29S,2025,9,26,"winter","afternoon",-46.8088873755187,168.225824777037,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 13M 49S,2025,9,26,"winter","afternoon",-46.8106495868415,168.224378982559,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 14M 1S,2025,9,26,"winter","afternoon",-46.8119385978207,168.223328394815,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 14M 38S,2025,9,26,"winter","afternoon",-46.8152802530676,168.220222732052,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 15M 16S,2025,9,26,"winter","afternoon",-46.8186146160588,168.216838538647,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,5,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 15M 46S,2025,9,26,"winter","afternoon",-46.8211302347481,168.214147780091,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,6,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 16M 0S,2025,9,26,"winter","afternoon",-46.8223722232506,168.213060060516,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 16M 6S,2025,9,26,"winter","afternoon",-46.8229760136455,168.212548429146,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 17M 6S,2025,9,26,"winter","afternoon",-46.8282421538606,168.207487603649,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,5,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 17M 39S,2025,9,26,"winter","afternoon",-46.8312487844378,168.204720905051,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,5,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 17M 57S,2025,9,26,"winter","afternoon",-46.832807357423,168.20325197652,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,5,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 2S,2025,9,26,"winter","afternoon",-46.8333469843492,168.202741350979,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 10S,2025,9,26,"winter","afternoon",-46.8340893276036,168.202068787068,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 19S,2025,9,26,"winter","afternoon",-46.8348252167925,168.201363282278,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 37S,2025,9,26,"winter","afternoon",-46.8365738494322,168.199737947434,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 48S,2025,9,26,"winter","afternoon",-46.8376229703426,168.198851561174,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 18M 56S,2025,9,26,"winter","afternoon",-46.8384905811399,168.198177488521,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 19M 3S,2025,9,26,"winter","afternoon",-46.8390781525522,168.197702821344,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 19M 19S,2025,9,26,"winter","afternoon",-46.8406062154099,168.196299606934,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 19M 26S,2025,9,26,"winter","afternoon",-46.8412721157074,168.195747490972,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 19M 48S,2025,9,26,"winter","afternoon",-46.8433873727918,168.194089718163,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,NA,NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 20M 28S,2025,9,26,"winter","afternoon",-46.8472662661225,168.190812561661,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 21M 21S,2025,9,26,"winter","afternoon",-46.852045962587,168.186453385279,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 21M 28S,2025,9,26,"winter","afternoon",-46.8526495015249,168.185822730884,"0-0.5","3",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 21M 37S,2025,9,26,"winter","afternoon",-46.8534010648727,168.185171624646,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 21M 41S,2025,9,26,"winter","afternoon",-46.8537746462971,168.184814136475,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 22M 35S,2025,9,26,"winter","afternoon",-46.8587387446314,168.180169807747,"0-0.5","2",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 23M 26S,2025,9,26,"winter","afternoon",-46.8632342107594,168.175322972238,"0-0.5","2",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 25M 45S,2025,9,26,"winter","afternoon",-46.8757964204997,168.162679541856,"0-0.5","2",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 26M 7S,2025,9,26,"winter","afternoon",-46.8776786606759,168.160758242011,"0-0.5","2",21,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,NA,NA,NA,NA,"Common diving petrel"
+2025-09-26,17H 26M 15S,2025,9,26,"winter","afternoon",-46.8783804774284,168.160034883767,"0-0.5","2",21,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_W",NA,"pied",NA,"Stewart Island shag"
+2025-09-26,17H 27M 36S,2025,9,26,"winter","afternoon",-46.8855367787182,168.152537606657,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-26,17H 28M 19S,2025,9,26,"winter","afternoon",-46.8889436032623,168.147732513025,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 0M 3S,2025,9,27,"winter","morning",-46.8916917778552,168.141737943515,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 0M 14S,2025,9,27,"winter","morning",-46.8912570923567,168.142457194626,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 0M 50S,2025,9,27,"winter","morning",-46.8899313686416,168.146287472919,"0-0.5","2",22,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 3M 31S,2025,9,27,"winter","morning",-46.875716582872,168.162164390087,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 3M 39S,2025,9,27,"winter","morning",-46.874933168292,168.162857992575,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 4M 59S,2025,9,27,"winter","morning",-46.8670780677348,168.169761160389,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 5M 29S,2025,9,27,"winter","morning",-46.8641750793904,168.17255618982,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 6M 22S,2025,9,27,"winter","morning",-46.8591494997963,168.177101612091,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 6M 47S,2025,9,27,"winter","morning",-46.8568606954068,168.179219886661,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 7M 15S,2025,9,27,"winter","morning",-46.8542324658483,168.181711575016,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 7M 31S,2025,9,27,"winter","morning",-46.8526005931199,168.183135157451,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 7M 43S,2025,9,27,"winter","morning",-46.851431443356,168.184156911448,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 8M 1S,2025,9,27,"winter","morning",-46.8498579505831,168.185705300421,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 8M 11S,2025,9,27,"winter","morning",-46.8488130206242,168.186692018062,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 8M 37S,2025,9,27,"winter","morning",-46.8465569894761,168.188748601824,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 8M 48S,2025,9,27,"winter","morning",-46.8454037653282,168.189794830978,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 5S,2025,9,27,"winter","morning",-46.8436685437337,168.19137708284,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 17S,2025,9,27,"winter","morning",-46.8425846798345,168.192310743034,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 36S,2025,9,27,"winter","morning",-46.8411172600463,168.194319885224,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 41S,2025,9,27,"winter","morning",-46.8406404135749,168.194992365316,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 51S,2025,9,27,"winter","morning",-46.8396408716217,168.196078408509,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 9M 58S,2025,9,27,"winter","morning",-46.8390597123653,168.196572856978,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,13,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 4S,2025,9,27,"winter","morning",-46.8384759128094,168.197026569396,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,10,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 10S,2025,9,27,"winter","morning",-46.8378996150568,168.197494279593,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 17S,2025,9,27,"winter","morning",-46.837232876569,168.198025524616,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,8,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 32S,2025,9,27,"winter","morning",-46.835785866715,168.199242744595,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 39S,2025,9,27,"winter","morning",-46.8351117102429,168.199837775901,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,10,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 49S,2025,9,27,"winter","morning",-46.8340419698507,168.200724832714,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,19,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 10M 55S,2025,9,27,"winter","morning",-46.8334547337145,168.201199918985,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,6,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 9S,2025,9,27,"winter","morning",-46.8321948917583,168.202198622748,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,11,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 23S,2025,9,27,"winter","morning",-46.8306855205446,168.203343003988,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,12,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 35S,2025,9,27,"winter","morning",-46.8295646086335,168.204128388315,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,12,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 42S,2025,9,27,"winter","morning",-46.8289655959234,168.204544298351,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 48S,2025,9,27,"winter","morning",-46.8281509587541,168.205143185332,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 11M 57S,2025,9,27,"winter","morning",-46.8272626865655,168.205828741193,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 12M 33S,2025,9,27,"winter","morning",-46.8239091290161,168.208512794226,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 12M 52S,2025,9,27,"winter","morning",-46.8220675829798,168.210051460192,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 15M 28S,2025,9,27,"winter","morning",-46.8065328989178,168.222083346918,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 17M 22S,2025,9,27,"winter","morning",-46.7951629310846,168.230493245646,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 17M 43S,2025,9,27,"winter","morning",-46.7932073492557,168.232105085626,"0-0.5","2",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 18M 26S,2025,9,27,"winter","morning",-46.7888724384829,168.235547365621,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 18M 34S,2025,9,27,"winter","morning",-46.7881974438205,168.236148850992,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 20M 7S,2025,9,27,"winter","morning",-46.7793005565181,168.24367756024,"0-0.5","3",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 21M 51S,2025,9,27,"winter","morning",-46.7689341120422,168.25205183588,"0-0.5","3",22,"seabirds",NA,"petrel","Cape_pigeon",NA,1,"flying_E",NA,NA,NA,"Cape petrel"
+2025-09-27,8H 28M 5S,2025,9,27,"winter","morning",-46.732787238434,168.281159335747,"0-0.5","3",22,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-09-27,8H 34M 18S,2025,9,27,"winter","morning",-46.695952587761,168.307546740398,"0-0.5","3",22,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk","adult",1,"flying_S",NA,NA,"Potentially grey headed; think it had darker wing undersides","Buller's mollymawk"
+2025-09-27,8H 37M 37S,2025,9,27,"winter","morning",-46.6762994555756,168.321198346093,"0-0.5","3",22,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,8H 40M 6S,2025,9,27,"winter","morning",-46.6614191047847,168.330544419587,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 41M 22S,2025,9,27,"winter","morning",-46.6538438340649,168.335194867104,"0-0.5","2",22,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water",NA,"bronze",NA,"Stewart Island shag"
+2025-09-27,8H 44M 26S,2025,9,27,"winter","morning",-46.6356224147603,168.345897970721,"0-0.5","2",22,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_N",NA,NA,NA,"Buller's mollymawk"
+2025-09-27,8H 44M 34S,2025,9,27,"winter","morning",-46.6347058536485,168.346357382834,"0-0.5","2",22,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_S",NA,NA,NA,"Black-backed gull"
+2025-09-27,8H 45M 18S,2025,9,27,"winter","morning",-46.6303664585575,168.348837504163,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,8H 45M 53S,2025,9,27,"winter","morning",-46.6275484627113,168.352245083079,"0-0.5","1",22,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_W",NA,NA,NA,"Black-backed gull"
+2025-09-27,8H 47M 45S,2025,9,27,"winter","morning",-46.6173634445295,168.359523843974,"0-0.5","1",22,"seabirds",NA,"gull","red-billed_gull",NA,1,"flying_S",NA,NA,NA,"Red-billed gull"
+2025-09-27,8H 48M 19S,2025,9,27,"winter","morning",-46.6141312988475,168.361712023616,"0-0.5","1",22,"seabirds",NA,"gull","black-backed_gull",NA,1,"flying_N",NA,NA,NA,"Black-backed gull"
+2025-09-27,8H 48M 33S,2025,9,27,"winter","morning",-46.6127365501598,168.362424820662,"0-0.5","1",22,"seabirds",NA,"shag","pied_shag",NA,1,"flying_N",NA,NA,NA,"Pied shag"
+2025-09-27,8H 48M 49S,2025,9,27,"winter","morning",-46.6112260473892,168.361899945885,"0-0.5","1",22,"seabirds",NA,"shag","black_shag",NA,1,"sitting_on_water",NA,NA,NA,"Black shag"
+2025-09-27,8H 49M 10S,2025,9,27,"winter","morning",-46.6092848405242,168.360668811947,"0-0.5","1",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,9H 50M 48S,2025,9,27,"winter","morning",-46.6068630991504,168.359567848966,"0-0.5","1",23,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,9H 51M 1S,2025,9,27,"winter","morning",-46.6081290598959,168.360399836674,"0-0.5","1",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,9H 51M 5S,2025,9,27,"winter","morning",-46.6086564492434,168.360720612109,"0-0.5","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,9H 51M 30S,2025,9,27,"winter","morning",-46.6112564736977,168.362168166786,"0.5-1","2",23,"seabirds",NA,"gull","black-backed_gull",NA,2,"flying_S",NA,NA,NA,"Black-backed gull"
+2025-09-27,9H 54M 19S,2025,9,27,"winter","morning",-46.6289108572528,168.349596736953,"0.5-1","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,9H 57M 11S,2025,9,27,"winter","morning",-46.6461886418983,168.336284095421,"0.5-1","2",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,10H 5M 56S,2025,9,27,"winter","morning",-46.6976169403642,168.296991325915,"0.5-1","3",23,"seabirds",NA,"mollymawk_sooty","white-capped_mollymawk","dont_know",1,"sitting_on_water",NA,NA,NA,"White-capped mollymawk"
+2025-09-27,10H 13M 28S,2025,9,27,"winter","morning",-46.7413069400936,168.264488568529,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 16M 2S,2025,9,27,"winter","morning",-46.7565443180501,168.253941284493,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 17M 50S,2025,9,27,"winter","morning",-46.7671390855685,168.246086519212,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 19M 13S,2025,9,27,"winter","morning",-46.7751914123073,168.240600395948,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 19M 26S,2025,9,27,"winter","morning",-46.7765375040472,168.239797996357,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 19M 33S,2025,9,27,"winter","morning",-46.7771250754595,168.239375716075,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 20M 17S,2025,9,27,"winter","morning",-46.7814846290275,168.236373737454,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 21M 34S,2025,9,27,"winter","morning",-46.7889353446662,168.23115256615,"0.5-1","3",23,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_S",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-27,10H 23M 50S,2025,9,27,"winter","morning",-46.801921762526,168.221555203199,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 24M 28S,2025,9,27,"winter","morning",-46.8056130688637,168.218554146588,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 25M 20S,2025,9,27,"winter","morning",-46.8105509737507,168.215005248785,"0.5-1","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,10H 26M 30S,2025,9,27,"winter","morning",-46.8172189872712,168.210311885923,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 26M 41S,2025,9,27,"winter","morning",-46.818315256387,168.209632784128,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 26M 52S,2025,9,27,"winter","morning",-46.8193606892601,168.208855446428,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 27M 16S,2025,9,27,"winter","morning",-46.8216879246756,168.207170432433,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 27M 27S,2025,9,27,"winter","morning",-46.8226668052375,168.206461323425,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 27M 40S,2025,9,27,"winter","morning",-46.8240342708305,168.205460021272,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 27M 52S,2025,9,27,"winter","morning",-46.825091438368,168.204644126818,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 28M 6S,2025,9,27,"winter","morning",-46.8264397932217,168.203621450812,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 28M 24S,2025,9,27,"winter","morning",-46.8282745918259,168.202256206423,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 28M 50S,2025,9,27,"winter","morning",-46.830678563565,168.200357956812,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,6,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 28M 58S,2025,9,27,"winter","morning",-46.8315562326461,168.199661672115,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,6,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 29M 24S,2025,9,27,"winter","morning",-46.8340013595298,168.197533171624,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 29M 33S,2025,9,27,"winter","morning",-46.834823875688,168.196843173355,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 29M 46S,2025,9,27,"winter","morning",-46.836006604135,168.195853605866,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 29M 51S,2025,9,27,"winter","morning",-46.8364687403664,168.195455465466,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 29M 57S,2025,9,27,"winter","morning",-46.8370107980445,168.194968393072,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 30M 5S,2025,9,27,"winter","morning",-46.8377446755767,168.194387527183,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 30M 16S,2025,9,27,"winter","morning",-46.8387436727062,168.19350130856,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 30M 24S,2025,9,27,"winter","morning",-46.8393903365359,168.192956317216,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 30M 33S,2025,9,27,"winter","morning",-46.8402158701792,168.192275455222,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 30M 54S,2025,9,27,"winter","morning",-46.8421046482399,168.190502598882,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 0S,2025,9,27,"winter","morning",-46.8427293933928,168.189914021641,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 8S,2025,9,27,"winter","morning",-46.8434854410589,168.18936701864,"0.5-1","3",23,"seabirds",NA,"tern","tern_sp","dont_know",2,"flying_N",NA,NA,"Probably white fromted terns","Unknown tern"
+2025-09-27,10H 31M 14S,2025,9,27,"winter","morning",-46.8440536083654,168.188955215737,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 32S,2025,9,27,"winter","morning",-46.8456081580371,168.187703127041,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 37S,2025,9,27,"winter","morning",-46.8461699970067,168.187180934474,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 44S,2025,9,27,"winter","morning",-46.8467925209552,168.186605852097,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 31M 54S,2025,9,27,"winter","morning",-46.847601919435,168.185879141092,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 32M 1S,2025,9,27,"winter","morning",-46.8482395727187,168.185396930203,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 32M 10S,2025,9,27,"winter","morning",-46.8491734843701,168.18468471989,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 32M 15S,2025,9,27,"winter","morning",-46.8496235925704,168.184246011078,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 32M 47S,2025,9,27,"winter","morning",-46.8524544965476,168.181919530034,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel","adult",2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 33M 5S,2025,9,27,"winter","morning",-46.8540424481034,168.180422773585,"0.5-1","3",23,"seabirds",NA,"albatross","northern_royal_albatross",NA,NA,"sitting_on_water",NA,NA,NA,"Northern royal albatross"
+2025-09-27,10H 33M 13S,2025,9,27,"winter","morning",-46.8547890242189,168.179500261322,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 33M 18S,2025,9,27,"winter","morning",-46.8552242126316,168.1791143585,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 33M 47S,2025,9,27,"winter","morning",-46.8578937649727,168.176857447252,"0.5-1","3",23,"seabirds",NA,"shag","stewart_island_shag",NA,1,"flying_E",NA,"pied",NA,"Stewart Island shag"
+2025-09-27,10H 33M 54S,2025,9,27,"winter","morning",-46.8584386305884,168.176368447021,"0.5-1","3",23,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,10H 39M 58S,2025,9,27,"winter","morning",-46.8908076127991,168.143874742091,"0.5-1","3",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 2M 0S,2025,9,27,"winter","afternoon",-46.8898387486115,168.14609779045,"0.5-1","3",24,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 2M 28S,2025,9,27,"winter","afternoon",-46.8880054168403,168.149597821757,"0.5-1","3",24,"seabirds",NA,"shag","shag_sp","dont_know",1,"flying_S",NA,NA,"Pied or foveaux pied","Unknown shag"
+2025-09-27,15H 3M 33S,2025,9,27,"winter","afternoon",-46.8825237778947,168.155575459823,"0.5-1","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 5M 50S,2025,9,27,"winter","afternoon",-46.8710277881473,168.167984113097,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 5M 58S,2025,9,27,"winter","afternoon",-46.8704444915056,168.168597500771,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel","dont_know",1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 6M 11S,2025,9,27,"winter","afternoon",-46.8692647386342,168.169866856188,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 6M 25S,2025,9,27,"winter","afternoon",-46.8681776057929,168.171029845253,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 6M 46S,2025,9,27,"winter","afternoon",-46.8664702959359,168.173012081534,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 7M 3S,2025,9,27,"winter","afternoon",-46.8649782752618,168.174549406394,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 7M 35S,2025,9,27,"winter","afternoon",-46.8622658913955,168.177078729495,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 7M 48S,2025,9,27,"winter","afternoon",-46.861163713038,168.178151194006,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 3S,2025,9,27,"winter","afternoon",-46.8547963583842,168.184727216139,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 21S,2025,9,27,"winter","afternoon",-46.8533275555819,168.186071421951,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,9,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 28S,2025,9,27,"winter","afternoon",-46.8527240166441,168.186632087454,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 33S,2025,9,27,"winter","afternoon",-46.8522180849686,168.187135839835,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 40S,2025,9,27,"winter","afternoon",-46.8515955610201,168.187722405419,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 9M 53S,2025,9,27,"winter","afternoon",-46.8505811830983,168.188713314012,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 10M 38S,2025,9,27,"winter","afternoon",-46.8467351049185,168.192368578166,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 10M 56S,2025,9,27,"winter","afternoon",-46.845109811984,168.193836081773,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 11M 2S,2025,9,27,"winter","afternoon",-46.8446718156338,168.19419474341,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 11M 32S,2025,9,27,"winter","afternoon",-46.8419540254399,168.19656053558,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 11M 54S,2025,9,27,"winter","afternoon",-46.840101708658,168.198116468266,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,4,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 12M 31S,2025,9,27,"winter","afternoon",-46.8367231311277,168.200887776911,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 12M 45S,2025,9,27,"winter","afternoon",-46.8355495389551,168.20183317177,"0.5-1","4",24,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-09-27,15H 12M 53S,2025,9,27,"winter","afternoon",-46.8348243366927,168.202422754839,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 13M 0S,2025,9,27,"winter","afternoon",-46.8341903295368,168.202950982377,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 13M 14S,2025,9,27,"winter","afternoon",-46.8328098300844,168.204013304785,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 13M 19S,2025,9,27,"winter","afternoon",-46.8323465203866,168.204353442416,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 14M 16S,2025,9,27,"winter","afternoon",-46.8271311325952,168.208406930789,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 14M 30S,2025,9,27,"winter","afternoon",-46.8258862523362,168.20960495621,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 14M 43S,2025,9,27,"winter","afternoon",-46.8249764386564,168.210911275819,"0.5-1","4",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 14M 49S,2025,9,27,"winter","afternoon",-46.824412336573,168.211618876085,"0.5-1","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 14M 56S,2025,9,27,"winter","afternoon",-46.8237797124311,168.212207118049,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 15M 19S,2025,9,27,"winter","afternoon",-46.8217157106847,168.214076701552,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 15M 27S,2025,9,27,"winter","afternoon",-46.8210617545992,168.214647509158,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 15M 36S,2025,9,27,"winter","afternoon",-46.8201540363953,168.215438676998,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 15M 42S,2025,9,27,"winter","afternoon",-46.8196149123833,168.215930778533,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 15M 55S,2025,9,27,"winter","afternoon",-46.8185541406274,168.216952783987,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 16M 18S,2025,9,27,"winter","afternoon",-46.8168263789266,168.219587802887,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 16M 37S,2025,9,27,"winter","afternoon",-46.8152066599578,168.221343308687,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 16M 47S,2025,9,27,"winter","afternoon",-46.8143382947892,168.222187701613,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 17M 33S,2025,9,27,"winter","afternoon",-46.8101996462792,168.225623946637,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 17M 38S,2025,9,27,"winter","afternoon",-46.8098446726799,168.225950840861,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 18M 20S,2025,9,27,"winter","afternoon",-46.8061349261552,168.229572409764,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 18M 29S,2025,9,27,"winter","afternoon",-46.8054738035426,168.230318650603,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 18M 35S,2025,9,27,"winter","afternoon",-46.8049187539145,168.230755096301,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 18M 40S,2025,9,27,"winter","afternoon",-46.8043796718121,168.231183998287,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 18M 49S,2025,9,27,"winter","afternoon",-46.8035417748615,168.231834936887,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 19M 2S,2025,9,27,"winter","afternoon",-46.8023477308452,168.232790725306,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 19M 7S,2025,9,27,"winter","afternoon",-46.8018672801554,168.233142010868,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 19M 15S,2025,9,27,"winter","afternoon",-46.8011613981798,168.23374341242,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 19M 20S,2025,9,27,"winter","afternoon",-46.8007231503725,168.234127052128,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 19M 35S,2025,9,27,"winter","afternoon",-46.7994724866003,168.235119972378,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 20M 9S,2025,9,27,"winter","afternoon",-46.7963920952752,168.237656839192,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 20M 15S,2025,9,27,"winter","afternoon",-46.7958473134786,168.238079706207,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 20M 31S,2025,9,27,"winter","afternoon",-46.7944085178897,168.23925501667,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 20M 40S,2025,9,27,"winter","afternoon",-46.7936038551852,168.239899836481,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 21M 53S,2025,9,27,"winter","afternoon",-46.7870805133134,168.245224943385,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_E",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-27,15H 22M 0S,2025,9,27,"winter","afternoon",-46.7863497789949,168.24581226334,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 22M 5S,2025,9,27,"winter","afternoon",-46.7859015986323,168.246159441769,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 22M 32S,2025,9,27,"winter","afternoon",-46.7835670290515,168.248022655025,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 23M 41S,2025,9,27,"winter","afternoon",-46.7773018497974,168.252985747531,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_W",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-27,15H 23M 57S,2025,9,27,"winter","afternoon",-46.7758408421651,168.254086794332,"0-0.5","3",NA,"note",NA,NA,NA,NA,NA,NA,NA,NA,"All mollies today very far from boat",NA
+2025-09-27,15H 24M 6S,2025,9,27,"winter","afternoon",-46.7750159371644,168.254720801488,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 24M 54S,2025,9,27,"winter","afternoon",-46.7706191679463,168.258159980178,"0-0.5","3",24,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,15H 25M 36S,2025,9,27,"winter","afternoon",-46.7668468924239,168.261077469215,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-09-27,15H 28M 3S,2025,9,27,"winter","afternoon",-46.7534136353061,168.271613856778,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-09-27,15H 38M 41S,2025,9,27,"winter","afternoon",-46.6941057192162,168.314257375896,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Buller's_mollymawk",NA,1,"flying_S",NA,NA,NA,"Buller's mollymawk"
+2025-09-27,15H 41M 15S,2025,9,27,"winter","afternoon",-46.6796615207568,168.324605338275,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 41M 28S,2025,9,27,"winter","afternoon",-46.6785385133699,168.325462471694,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,15H 47M 39S,2025,9,27,"winter","afternoon",-46.6434684209526,168.34910094738,"0-0.5","3",24,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_W",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-27,15H 51M 46S,2025,9,27,"winter","afternoon",-46.6183338174596,168.358487505466,"0-0.5","3",24,"seabirds",NA,"tern","black-fronted_tern",NA,1,"flying_N",NA,NA,NA,"Black-fronted tern"
+2025-09-27,15H 53M 3S,2025,9,27,"winter","afternoon",-46.6106376796961,168.361876728013,"0-0.5","3",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,16H 37M 3S,2025,9,27,"winter","afternoon",-46.6072792606428,168.360222810879,"0-0.5","3",25,"effort","ON",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,16H 37M 18S,2025,9,27,"winter","afternoon",-46.6087732510641,168.361304076388,"0-0.5","3",25,"seabirds",NA,"shag","spotted_shag",NA,1,"sitting_on_water",NA,NA,NA,"Spotted shag"
+2025-09-27,16H 41M 58S,2025,9,27,"winter","afternoon",-46.6368238348514,168.347185347229,"0-0.5","3",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,16H 42M 5S,2025,9,27,"winter","afternoon",-46.6374844545498,168.346637003124,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,16H 42M 34S,2025,9,27,"winter","afternoon",-46.6401698905975,168.344613863155,"0.5-1","4",25,"seabirds",NA,"gull","black-backed_gull","juvenile",1,"flying_N",NA,NA,NA,"Black-backed gull"
+2025-09-27,16H 56M 47S,2025,9,27,"winter","afternoon",-46.7239124374464,168.28245241195,"0.5-1","4",25,"seabirds",NA,"shag","stewart_island_shag",NA,1,"sitting_on_water",NA,"pied",NA,"Stewart Island shag"
+2025-09-27,17H 0M 2S,2025,9,27,"winter","afternoon",-46.7430979013443,168.268511882052,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 1M 49S,2025,9,27,"winter","afternoon",-46.7535649705678,168.261044612154,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 2M 15S,2025,9,27,"winter","afternoon",-46.7558689042926,168.258985178545,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 3M 58S,2025,9,27,"winter","afternoon",-46.7661515297368,168.252179827541,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 4M 6S,2025,9,27,"winter","afternoon",-46.7668691882864,168.251580186188,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 4M 30S,2025,9,27,"winter","afternoon",-46.7691777739674,168.250029953197,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 4M 45S,2025,9,27,"winter","afternoon",-46.7707861354575,168.249060669914,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 4M 51S,2025,9,27,"winter","afternoon",-46.771425800398,168.248686920851,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 4M 57S,2025,9,27,"winter","afternoon",-46.7720231367275,168.248270424083,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 5M 16S,2025,9,27,"winter","afternoon",-46.7740835342556,168.247014228255,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 5M 51S,2025,9,27,"winter","afternoon",-46.7774040671065,168.24468514882,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 6M 6S,2025,9,27,"winter","afternoon",-46.7790226545185,168.243629699573,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 6M 41S,2025,9,27,"winter","afternoon",-46.7824015254155,168.241067267954,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 6M 50S,2025,9,27,"winter","afternoon",-46.78319059778,168.240546667948,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 3S,2025,9,27,"winter","afternoon",-46.784539707005,168.239788608626,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 15S,2025,9,27,"winter","afternoon",-46.7857298953459,168.238877495751,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 21S,2025,9,27,"winter","afternoon",-46.7862400598824,168.238564431667,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 37S,2025,9,27,"winter","afternoon",-46.7877159453928,168.237397754565,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 50S,2025,9,27,"winter","afternoon",-46.7891036113724,168.236511955038,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 7M 56S,2025,9,27,"winter","afternoon",-46.7895237961784,168.236272651702,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 8M 1S,2025,9,27,"winter","afternoon",-46.7901847092435,168.235804019496,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 8M 20S,2025,9,27,"winter","afternoon",-46.7918186355382,168.234587134793,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 9M 7S,2025,9,27,"winter","afternoon",-46.7966641718522,168.231156505644,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 9M 15S,2025,9,27,"winter","afternoon",-46.7973480513319,168.23066691868,"0.5-1","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 9M 45S,2025,9,27,"winter","afternoon",-46.8002793285996,168.228488294408,"0.5-1","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,17H 9M 53S,2025,9,27,"winter","afternoon",-46.8010130384937,168.227984709665,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,17H 10M 13S,2025,9,27,"winter","afternoon",-46.8029630882666,168.22634043172,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 10M 24S,2025,9,27,"winter","afternoon",-46.8039499316365,168.225460415706,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 10M 31S,2025,9,27,"winter","afternoon",-46.8046716134995,168.225041404366,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 10M 37S,2025,9,27,"winter","afternoon",-46.80507842917,168.224561372772,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 10M 57S,2025,9,27,"winter","afternoon",-46.8068885849789,168.223019102588,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 11M 3S,2025,9,27,"winter","afternoon",-46.8074911180884,168.2224311959,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 11M 14S,2025,9,27,"winter","afternoon",-46.8084971560165,168.221496026963,"0-0.5","4",25,"seabirds",NA,"shag","shag_sp",NA,1,"sitting_on_water",NA,NA,NA,"Unknown shag"
+2025-09-27,17H 11M 47S,2025,9,27,"winter","afternoon",-46.8117616139352,168.219054797664,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 12M 1S,2025,9,27,"winter","afternoon",-46.8129608547315,168.218018207699,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 12M 22S,2025,9,27,"winter","afternoon",-46.8150068772957,168.216357417405,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 12M 36S,2025,9,27,"winter","afternoon",-46.8163247639313,168.215215802193,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 12M 42S,2025,9,27,"winter","afternoon",-46.8168372334912,168.214843729511,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 13M 44S,2025,9,27,"winter","afternoon",-46.8225894402713,168.209630185738,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 13M 56S,2025,9,27,"winter","afternoon",-46.8235529400408,168.208669368178,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 14M 14S,2025,9,27,"winter","afternoon",-46.825279192999,168.207092480734,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 14M 34S,2025,9,27,"winter","afternoon",-46.8271056935191,168.205348709598,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 14M 51S,2025,9,27,"winter","afternoon",-46.8287629634142,168.203862849623,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 11S,2025,9,27,"winter","afternoon",-46.8306336784735,168.202134249732,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 16S,2025,9,27,"winter","afternoon",-46.8311024364084,168.201689003035,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 37S,2025,9,27,"winter","afternoon",-46.832975205034,168.200066434219,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 42S,2025,9,27,"winter","afternoon",-46.8334577931091,168.199719088152,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 50S,2025,9,27,"winter","afternoon",-46.8342495057732,168.199126487598,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,5,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 15M 58S,2025,9,27,"winter","afternoon",-46.8349078623578,168.198514776304,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 16M 3S,2025,9,27,"winter","afternoon",-46.8355911131948,168.197953775525,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 16M 11S,2025,9,27,"winter","afternoon",-46.8362679937854,168.197345500812,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,NA,NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 16M 26S,2025,9,27,"winter","afternoon",-46.8377955956385,168.196042617783,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 16M 43S,2025,9,27,"winter","afternoon",-46.8393858522177,168.194942576811,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 16M 58S,2025,9,27,"winter","afternoon",-46.8408373463899,168.193748574704,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,3,"flying_N",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 7S,2025,9,27,"winter","afternoon",-46.8417115369812,168.193005183712,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 17S,2025,9,27,"winter","afternoon",-46.8426728155464,168.192192055285,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 23S,2025,9,27,"winter","afternoon",-46.8432688945904,168.191698612645,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 30S,2025,9,27,"winter","afternoon",-46.8438665661961,168.191220257431,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 35S,2025,9,27,"winter","afternoon",-46.8444475578144,168.190704602748,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 17M 54S,2025,9,27,"winter","afternoon",-46.8462839070708,168.189109358937,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 18M 3S,2025,9,27,"winter","afternoon",-46.8471090635285,168.188317436725,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 18M 10S,2025,9,27,"winter","afternoon",-46.847763271071,168.187742102891,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 18M 16S,2025,9,27,"winter","afternoon",-46.8483395688236,168.187238853425,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 18M 39S,2025,9,27,"winter","afternoon",-46.8505199532956,168.185329036787,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"sitting_on_water",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 18M 56S,2025,9,27,"winter","afternoon",-46.852122573182,168.183898581192,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_W",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 19M 22S,2025,9,27,"winter","afternoon",-46.8545218510553,168.181728338823,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,2,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 19M 31S,2025,9,27,"winter","afternoon",-46.8553706863895,168.180974051356,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 19M 52S,2025,9,27,"winter","afternoon",-46.8572461791337,168.179246373475,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 20M 19S,2025,9,27,"winter","afternoon",-46.8599531985819,168.176750075072,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_E",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 22M 59S,2025,9,27,"winter","afternoon",-46.8748957430944,168.163175331429,"0-0.5","4",25,"seabirds",NA,"diving_petrel","common_diving_petrel",NA,1,"flying_S",NA,NA,NA,"Common diving petrel"
+2025-09-27,17H 23M 44S,2025,9,27,"winter","afternoon",-46.8791160313413,168.159289397299,"0-0.5","4",25,"seabirds",NA,"mollymawk_sooty","Thalassarche_sp",NA,1,"flying_N",NA,NA,NA,"Unknown (Thalassarche) mollymawk"
+2025-09-27,17H 24M 1S,2025,9,27,"winter","afternoon",-46.8806713772938,168.158018197864,"0-0.5","4",NA,"weather_conditions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-09-27,17H 24M 41S,2025,9,27,"winter","afternoon",-46.8845908809453,168.15465814434,"0-0.5","4",25,"seabirds",NA,"tern","white-fronted_tern",NA,7,"flying_N",NA,NA,NA,"White-fronted tern"
+2025-09-27,17H 25M 28S,2025,9,27,"winter","afternoon",-46.8883935408667,168.149373522028,"0-0.5","4",25,"seabirds",NA,"tern","white-fronted_tern",NA,9,"flying_N",NA,NA,NA,"White-fronted tern"
+2025-09-27,17H 25M 45S,2025,9,27,"winter","afternoon",-46.88932988327,168.147407546639,"0-0.5","4",25,"seabirds",NA,"tern","tern_sp",NA,1,"flying_N",NA,NA,NA,"Unknown tern"
+2025-09-27,17H 25M 50S,2025,9,27,"winter","afternoon",-46.8896809173748,168.146567679942,"0-0.5","4",NA,"effort","OFF",NA,NA,NA,NA,NA,NA,NA,NA,NA
